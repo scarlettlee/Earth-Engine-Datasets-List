@@ -228,7 +228,7 @@
         "provider": "PML_V2",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "evapotranspiration, gpp, plant-productivity",
+        "tags": "evapotranspiration, gpp, plant-productivity, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/CAS/CAS_IGSNRR_PML_V2_sample.png",
         "title": "PML_V2 0.1.4: Coupled Evapotranspiration and Gross Primary Production (GPP) [deprecated]",
         "type": "image_collection"
@@ -241,7 +241,7 @@
         "provider": "PML_V2",
         "start_date": "2000-02-26",
         "startyear": "2000",
-        "tags": "evapotranspiration, gpp, plant-productivity",
+        "tags": "evapotranspiration, gpp, plant-productivity, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/CAS/CAS_IGSNRR_PML_V2_v017_sample.png",
         "title": "PML_V2 0.1.7: Coupled Evapotranspiration and Gross Primary Product (GPP) [deprecated]",
         "type": "image_collection"
@@ -254,7 +254,7 @@
         "provider": "PML_V2",
         "start_date": "2000-02-26",
         "startyear": "2000",
-        "tags": "evapotranspiration, gpp, plant-productivity",
+        "tags": "evapotranspiration, gpp, plant-productivity, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/CAS/CAS_IGSNRR_PML_V2_v018_sample.png",
         "title": "PML_V2 0.1.8: Coupled Evapotranspiration and Gross Primary Product (GPP)",
         "type": "image_collection"
@@ -547,7 +547,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S1_GRD",
         "provider": "European Union/ESA/Copernicus",
@@ -560,7 +560,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S2",
         "provider": "European Union/ESA/Copernicus",
@@ -573,7 +573,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_CLOUD_PROBABILITY#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S2_CLOUD_PROBABILITY",
         "provider": "European Union/ESA/Copernicus/SentinelHub",
@@ -586,7 +586,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_HARMONIZED#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S2_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -599,7 +599,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S2_SR",
         "provider": "European Union/ESA/Copernicus",
@@ -612,7 +612,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S2_SR_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -625,7 +625,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S3_OLCI#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-12",
         "endyear": "2025",
         "id": "COPERNICUS/S3/OLCI",
         "provider": "European Union/ESA/Copernicus",
@@ -638,7 +638,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_AI#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -651,7 +651,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_LH#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -664,7 +664,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CLOUD#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -677,7 +677,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CO#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -690,7 +690,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_HCHO#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -703,7 +703,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -716,7 +716,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_O3#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_O3",
         "provider": "European Union/ESA/Copernicus",
@@ -729,7 +729,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_SO2#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/NRTI/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -755,7 +755,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_LH#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -781,7 +781,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CLOUD#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/OFFL/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -820,7 +820,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2#terms-of-use",
-        "end_date": "2025-03-03",
+        "end_date": "2025-03-04",
         "endyear": "2025",
         "id": "COPERNICUS/S5P/OFFL/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -891,7 +891,7 @@
         "provider": "Spanish National Research Council (CSIC)",
         "start_date": "1901-01-01",
         "startyear": "1901",
-        "tags": "climate, climate_change, drought, evapotranspiration, global, monthly, palmer, precipitation, temperature",
+        "tags": "climate, climate_change, drought, evapotranspiration, global, monthly, palmer, precipitation, temperature, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/CSIC/CSIC_SPEI_2_8_sample.png",
         "title": "SPEIbase: Standardised Precipitation-Evapotranspiration Index database, Version 2.8 [deprecated]",
         "type": "image_collection"
@@ -904,7 +904,7 @@
         "provider": "Spanish National Research Council (CSIC)",
         "start_date": "1901-01-01",
         "startyear": "1901",
-        "tags": "climate, climate_change, drought, evapotranspiration, global, monthly, palmer, precipitation, temperature",
+        "tags": "climate, climate_change, drought, evapotranspiration, global, monthly, palmer, precipitation, temperature, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/CSIC/CSIC_SPEI_2_9_sample.png",
         "title": "SPEIbase: Standardised Precipitation-Evapotranspiration Index database, Version 2.9 [deprecated]",
         "type": "image_collection"
@@ -917,7 +917,7 @@
         "provider": "Spanish National Research Council (CSIC)",
         "start_date": "1901-01-01",
         "startyear": "1901",
-        "tags": "climate, climate_change, drought, evapotranspiration, global, monthly, palmer, precipitation, temperature",
+        "tags": "climate, climate_change, drought, evapotranspiration, global, monthly, palmer, precipitation, temperature, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/CSIC/CSIC_SPEI_2_10_sample.png",
         "title": "SPEIbase: Standardised Precipitation-Evapotranspiration Index database, Version 2.10",
         "type": "image_collection"
@@ -1197,7 +1197,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR#terms-of-use",
-        "end_date": "2025-03-05",
+        "end_date": "2025-03-06",
         "endyear": "2025",
         "id": "ECMWF/ERA5_LAND/DAILY_AGGR",
         "provider": "Daily Aggregates: Google and Copernicus Climate Data Store",
@@ -1684,7 +1684,7 @@
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "agriculture, fao, wapor, water",
+        "tags": "agriculture, fao, wapor, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/FAO/FAO_WAPOR_2_L1_AETI_D_sample.png",
         "title": "WAPOR Actual Evapotranspiration and Interception 2.0",
         "type": "image_collection"
@@ -1697,7 +1697,7 @@
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "agriculture, fao, wapor, water",
+        "tags": "agriculture, fao, wapor, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/FAO/FAO_WAPOR_2_L1_E_D_sample.png",
         "title": "WAPOR Dekadal Evaporation 2.0",
         "type": "image_collection"
@@ -1710,7 +1710,7 @@
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "agriculture, fao, wapor, water",
+        "tags": "agriculture, fao, wapor, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/FAO/FAO_WAPOR_2_L1_I_D_sample.png",
         "title": "WAPOR Dekadal Interception 2.0",
         "type": "image_collection"
@@ -1736,7 +1736,7 @@
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "agriculture, fao, wapor, water",
+        "tags": "agriculture, fao, wapor, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/FAO/FAO_WAPOR_2_L1_RET_D_sample.png",
         "title": "WAPOR Dekadal Reference Evapotranspiration 2.0",
         "type": "image_collection"
@@ -1749,7 +1749,7 @@
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "agriculture, fao, wapor, water",
+        "tags": "agriculture, fao, wapor, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/FAO/FAO_WAPOR_2_L1_RET_E_sample.png",
         "title": "WAPOR Daily Reference Evapotranspiration 2.0",
         "type": "image_collection"
@@ -1762,7 +1762,7 @@
         "provider": "FAO UN",
         "start_date": "2009-01-01",
         "startyear": "2009",
-        "tags": "agriculture, fao, wapor, water",
+        "tags": "agriculture, fao, wapor, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/FAO/FAO_WAPOR_2_L1_T_D_sample.png",
         "title": "WAPOR Dekadal Transpiration 2.0",
         "type": "image_collection"
@@ -1977,7 +1977,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "GOOGLE/CLOUD_SCORE_PLUS/V1/S2_HARMONIZED",
         "provider": "Google Earth Engine",
@@ -1990,7 +1990,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "GOOGLE/DYNAMICWORLD/V1",
         "provider": "World Resources Institute",
@@ -2074,7 +2074,7 @@
         "provider": "University of California Merced",
         "start_date": "1980-01-05",
         "startyear": "1980",
-        "tags": "climate, climatic_water_balance, conus, crop, drought, eddi, evapotranspiration, geophysical, gridmet, merced, metdata, palmer, pdsi, precipitation, spei, spi, surface-ground-water",
+        "tags": "climate, climatic_water_balance, conus, crop, drought, eddi, evapotranspiration, geophysical, gridmet, merced, metdata, palmer, pdsi, precipitation, spei, spi, surface-ground-water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/GRIDMET/GRIDMET_DROUGHT_sample.png",
         "title": "GRIDMET DROUGHT: CONUS Drought Indices",
         "type": "image_collection"
@@ -2204,7 +2204,7 @@
         "provider": "University of California Merced",
         "start_date": "1979-01-01",
         "startyear": "1979",
-        "tags": "climate, fireburning, gridmet, humidity, merced, metdata, nfdrs, precipitation, radiation, temperature, wind",
+        "tags": "climate, fireburning, gridmet, humidity, merced, metdata, nfdrs, precipitation, radiation, temperature, water-vapor, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/IDAHO_EPSCOR/IDAHO_EPSCOR_GRIDMET_sample.png",
         "title": "GRIDMET: University of Idaho Gridded Surface Meteorological Dataset",
         "type": "image_collection"
@@ -2243,7 +2243,7 @@
         "provider": "University of California Merced",
         "start_date": "1979-03-01",
         "startyear": "1979",
-        "tags": "climate, conus, crop, drought, geophysical, merced, palmer, pdsi, precipitation",
+        "tags": "climate, conus, crop, drought, geophysical, merced, palmer, pdsi, precipitation, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/IDAHO_EPSCOR/IDAHO_EPSCOR_PDSI_sample.png",
         "title": "PDSI: University of Idaho Palmer Drought Severity Index [deprecated]",
         "type": "image_collection"
@@ -2256,7 +2256,7 @@
         "provider": "University of California Merced",
         "start_date": "1958-01-01",
         "startyear": "1958",
-        "tags": "climate, drought, evapotranspiration, geophysical, global, merced, monthly, palmer, pdsi, precipitation, runoff, temperature, vapor, wind",
+        "tags": "climate, drought, evapotranspiration, geophysical, global, merced, monthly, palmer, pdsi, precipitation, runoff, temperature, vapor, water-vapor, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/IDAHO_EPSCOR/IDAHO_EPSCOR_TERRACLIMATE_sample.png",
         "title": "TerraClimate:  Monthly Climate and Climatic Water Balance for Global Terrestrial Surfaces, University of Idaho",
         "type": "image_collection"
@@ -4018,7 +4018,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2#terms-of-use",
-        "end_date": "2025-03-02",
+        "end_date": "2025-03-08",
         "endyear": "2025",
         "id": "LANDSAT/LC08/C02/T1_L2",
         "provider": "USGS",
@@ -4031,7 +4031,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "LANDSAT/LC08/C02/T1_RT",
         "provider": "USGS",
@@ -4044,7 +4044,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT_TOA#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "LANDSAT/LC08/C02/T1_RT_TOA",
         "provider": "USGS/Google",
@@ -4083,7 +4083,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T2_L2#terms-of-use",
-        "end_date": "2025-03-01",
+        "end_date": "2025-03-02",
         "endyear": "2025",
         "id": "LANDSAT/LC08/C02/T2_L2",
         "provider": "USGS",
@@ -4109,7 +4109,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "LANDSAT/LC09/C02/T1",
         "provider": "USGS",
@@ -4122,7 +4122,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_L2#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "LANDSAT/LC09/C02/T1_L2",
         "provider": "USGS",
@@ -4135,7 +4135,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_TOA#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "LANDSAT/LC09/C02/T1_TOA",
         "provider": "USGS/Google",
@@ -4174,7 +4174,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T2_TOA#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "LANDSAT/LC09/C02/T2_TOA",
         "provider": "USGS/Google",
@@ -5181,7 +5181,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2001-01-01",
         "startyear": "2001",
-        "tags": "8_day, evapotranspiration, global, mod16a2, modis, nasa",
+        "tags": "8_day, evapotranspiration, global, mod16a2, modis, nasa, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_006_MOD16A2_sample.png",
         "title": "MOD16A2.006: Terra Net Evapotranspiration 8-Day Global 500m [deprecated]",
         "type": "image_collection"
@@ -5799,7 +5799,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A1#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "MODIS/061/MOD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -5935,7 +5935,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2001-01-01",
         "startyear": "2001",
-        "tags": "8_day, evapotranspiration, global, mod16a2, modis, nasa",
+        "tags": "8_day, evapotranspiration, global, mod16a2, modis, nasa, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MOD16A2_sample.png",
         "title": "MOD16A2.061: Terra Net Evapotranspiration 8-Day Global 500m",
         "type": "image_collection"
@@ -5948,7 +5948,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-01-01",
         "startyear": "2000",
-        "tags": "8_day, evapotranspiration, global, modis, nasa",
+        "tags": "8_day, evapotranspiration, global, modis, nasa, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MOD16A2GF_sample.png",
         "title": "MOD16A2GF.061: Terra Net Evapotranspiration Gap-Filled 8-Day Global 500m",
         "type": "image_collection"
@@ -6007,7 +6007,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21A1N#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "MODIS/061/MOD21A1N",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6020,7 +6020,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21C1#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "MODIS/061/MOD21C1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6332,7 +6332,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21A1N#terms-of-use",
-        "end_date": "2025-03-09",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "MODIS/061/MYD21A1N",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6345,7 +6345,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21C1#terms-of-use",
-        "end_date": "2025-03-09",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "MODIS/061/MYD21C1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7092,7 +7092,7 @@
         "provider": "Numerical Terradynamic Simulation Group, The University of Montana",
         "start_date": "2000-01-01",
         "startyear": "2000",
-        "tags": "8_day, evapotranspiration, global, mod16a2, modis",
+        "tags": "8_day, evapotranspiration, global, mod16a2, modis, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_NTSG_MOD16A2_105_sample.png",
         "title": "MOD16A2: MODIS Global Terrestrial Evapotranspiration 8-Day Global 1km",
         "type": "image_collection"
@@ -7170,7 +7170,7 @@
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
         "start_date": "1982-01-01",
         "startyear": "1982",
-        "tags": "climate, evapotranspiration, famine, fldas, humidity, ldas, monthly, nasa, precipitation, runoff, snow, soil, soil_moisture, soil_temperature, temperature, wind",
+        "tags": "climate, cryosphere, evapotranspiration, famine, fldas, humidity, ldas, monthly, nasa, precipitation, runoff, snow, soil, soil_moisture, soil_temperature, temperature, water-vapor, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_FLDAS_NOAH01_C_GL_M_V001_sample.png",
         "title": "FLDAS: Famine Early Warning Systems Network (FEWS NET) Land Data Assimilation System",
         "type": "image_collection"
@@ -7261,7 +7261,7 @@
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
         "start_date": "1948-01-01",
         "startyear": "1948",
-        "tags": "3_hourly, climate, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil_moisture, surface, temperature, wind",
+        "tags": "3_hourly, climate, cryosphere, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil_moisture, surface, temperature, water-vapor, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GLDAS_V20_NOAH_G025_T3H_sample.png",
         "title": "Reprocessed GLDAS-2.0: Global Land Data Assimilation System",
         "type": "image_collection"
@@ -7274,7 +7274,7 @@
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
         "start_date": "2000-01-01",
         "startyear": "2000",
-        "tags": "3_hourly, climate, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil_moisture, surface, temperature, wind",
+        "tags": "3_hourly, climate, cryosphere, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil_moisture, surface, temperature, water-vapor, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GLDAS_V021_NOAH_G025_T3H_sample.png",
         "title": "GLDAS-2.1: Global Land Data Assimilation System",
         "type": "image_collection"
@@ -7287,7 +7287,7 @@
         "provider": "NASA GES DISC at NASA Goddard Earth Sciences Data and Information Services Center",
         "start_date": "2003-01-01",
         "startyear": "2003",
-        "tags": "3_hourly, climate, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil_moisture, surface, temperature, wind",
+        "tags": "3_hourly, climate, cryosphere, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil_moisture, surface, temperature, water-vapor, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GLDAS_V022_CLSM_G025_DA1D_sample.png",
         "title": "GLDAS-2.2: Global Land Data Assimilation System",
         "type": "image_collection"
@@ -7567,7 +7567,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSL30_v002#terms-of-use",
-        "end_date": "2025-03-09",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "NASA/HLS/HLSL30/v002",
         "provider": "NASA LP DAAC",
@@ -7606,7 +7606,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_LANCE_NOAA20_VIIRS_C2#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-12",
         "endyear": "2025",
         "id": "NASA/LANCE/NOAA20_VIIRS/C2",
         "provider": "NASA / LANCE / NOAA20_VIIRS",
@@ -7619,7 +7619,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_LANCE_SNPP_VIIRS_C2#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-12",
         "endyear": "2025",
         "id": "NASA/LANCE/SNPP_VIIRS/C2",
         "provider": "NASA / LANCE / SNPP_VIIRS",
@@ -7703,7 +7703,7 @@
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
         "start_date": "1979-01-01",
         "startyear": "1979",
-        "tags": "climate, evaporation, forcing, geophysical, hourly, humidity, ldas, nasa, nldas, precipitation, pressure, radiation, temperature, wind",
+        "tags": "climate, evaporation, forcing, geophysical, hourly, humidity, ldas, nasa, nldas, precipitation, pressure, radiation, soil, temperature, water-vapor, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_NLDAS_FORA0125_H002_sample.png",
         "title": "NLDAS-2: North American Land Data Assimilation System Forcing Fields",
         "type": "image_collection"
@@ -7814,7 +7814,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL3SMP_E_006#terms-of-use",
-        "end_date": "2025-03-09",
+        "end_date": "2025-03-10",
         "endyear": "2025",
         "id": "NASA/SMAP/SPL3SMP_E/006",
         "provider": "Google and NSIDC",
@@ -7840,7 +7840,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP09GA#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-12",
         "endyear": "2025",
         "id": "NASA/VIIRS/002/VNP09GA",
         "provider": "NASA Land SIPS",
@@ -7879,7 +7879,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP14A1#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "NASA/VIIRS/002/VNP14A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7905,7 +7905,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP21A1D#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "NASA/VIIRS/002/VNP21A1D",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7918,7 +7918,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP21A1N#terms-of-use",
-        "end_date": "2025-03-10",
+        "end_date": "2025-03-11",
         "endyear": "2025",
         "id": "NASA/VIIRS/002/VNP21A1N",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8334,7 +8334,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "NOAA/GFS0P25",
         "provider": "NOAA/NCEP/EMC",
@@ -8347,7 +8347,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_FDCC#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-14",
         "endyear": "2025",
         "id": "NOAA/GOES/16/FDCC",
         "provider": "NOAA",
@@ -8360,7 +8360,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_FDCF#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-14",
         "endyear": "2025",
         "id": "NOAA/GOES/16/FDCF",
         "provider": "NOAA",
@@ -8373,7 +8373,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPC#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-14",
         "endyear": "2025",
         "id": "NOAA/GOES/16/MCMIPC",
         "provider": "NOAA",
@@ -8386,7 +8386,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPF#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "NOAA/GOES/16/MCMIPF",
         "provider": "NOAA",
@@ -8399,7 +8399,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_16_MCMIPM#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-14",
         "endyear": "2025",
         "id": "NOAA/GOES/16/MCMIPM",
         "provider": "NOAA",
@@ -8477,7 +8477,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCC#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-14",
         "endyear": "2025",
         "id": "NOAA/GOES/18/FDCC",
         "provider": "NOAA",
@@ -8490,7 +8490,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCF#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-14",
         "endyear": "2025",
         "id": "NOAA/GOES/18/FDCF",
         "provider": "NOAA",
@@ -8503,7 +8503,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPC#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-14",
         "endyear": "2025",
         "id": "NOAA/GOES/18/MCMIPC",
         "provider": "NOAA",
@@ -8516,7 +8516,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPF#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "NOAA/GOES/18/MCMIPF",
         "provider": "NOAA",
@@ -8529,7 +8529,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPM#terms-of-use",
-        "end_date": "2025-03-11",
+        "end_date": "2025-03-14",
         "endyear": "2025",
         "id": "NOAA/GOES/18/MCMIPM",
         "provider": "NOAA",
@@ -8990,7 +8990,7 @@
         "provider": "OpenET, Inc.",
         "start_date": "2001-01-01",
         "startyear": "2001",
-        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water",
+        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OpenET/OpenET_DISALEXI_CONUS_GRIDMET_MONTHLY_v2_0_sample.png",
         "title": "OpenET DisALEXI Monthly Evapotranspiration v2.0",
         "type": "image_collection"
@@ -9003,7 +9003,7 @@
         "provider": "OpenET, Inc.",
         "start_date": "1999-10-01",
         "startyear": "1999",
-        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water",
+        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OpenET/OpenET_EEMETRIC_CONUS_GRIDMET_MONTHLY_v2_0_sample.png",
         "title": "OpenET eeMETRIC Monthly Evapotranspiration v2.0",
         "type": "image_collection"
@@ -9016,7 +9016,7 @@
         "provider": "OpenET, Inc.",
         "start_date": "1999-10-01",
         "startyear": "1999",
-        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water",
+        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OpenET/OpenET_ENSEMBLE_CONUS_GRIDMET_MONTHLY_v2_0_sample.png",
         "title": "OpenET Ensemble Monthly Evapotranspiration v2.0",
         "type": "image_collection"
@@ -9029,7 +9029,7 @@
         "provider": "OpenET, Inc.",
         "start_date": "1999-10-01",
         "startyear": "1999",
-        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water",
+        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OpenET/OpenET_GEESEBAL_CONUS_GRIDMET_MONTHLY_v2_0_sample.png",
         "title": "OpenET geeSEBAL Monthly Evapotranspiration v2.0",
         "type": "image_collection"
@@ -9042,7 +9042,7 @@
         "provider": "OpenET, Inc.",
         "start_date": "1999-10-01",
         "startyear": "1999",
-        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water",
+        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OpenET/OpenET_PTJPL_CONUS_GRIDMET_MONTHLY_v2_0_sample.png",
         "title": "OpenET PT-JPL Monthly Evapotranspiration v2.0",
         "type": "image_collection"
@@ -9055,7 +9055,7 @@
         "provider": "OpenET, Inc.",
         "start_date": "1999-10-01",
         "startyear": "1999",
-        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water",
+        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OpenET/OpenET_SIMS_CONUS_GRIDMET_MONTHLY_v2_0_sample.png",
         "title": "OpenET SIMS Monthly Evapotranspiration v2.0",
         "type": "image_collection"
@@ -9068,7 +9068,7 @@
         "provider": "OpenET, Inc.",
         "start_date": "1999-10-01",
         "startyear": "1999",
-        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water",
+        "tags": "evapotranspiration, gridmet_derived, landsat_derived, monthly, openet, water, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OpenET/OpenET_SSEBOP_CONUS_GRIDMET_MONTHLY_v2_0_sample.png",
         "title": "OpenET SSEBop Monthly Evapotranspiration v2.0",
         "type": "image_collection"
@@ -9523,7 +9523,7 @@
         "provider": "TERN Landscapes / CSIRO Land and Water",
         "start_date": "2012-02-01",
         "startyear": "2012",
-        "tags": "agriculture, australia, csiro, evaporation, evapotranspiration, landsat_derived, surface-ground-water, tern, viirs_derived",
+        "tags": "agriculture, australia, csiro, evaporation, evapotranspiration, landsat_derived, tern, viirs_derived, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/TERN/TERN_AET_CMRSET_LANDSAT_V2_1_sample.png",
         "title": "Actual Evapotranspiration for Australia (CMRSET Landsat V2.1) [deprecated]",
         "type": "image_collection"
@@ -9536,7 +9536,7 @@
         "provider": "TERN Landscapes / CSIRO Land and Water",
         "start_date": "2000-02-01",
         "startyear": "2000",
-        "tags": "agriculture, australia, csiro, evaporation, evapotranspiration, landsat_derived, surface-ground-water, tern, viirs_derived",
+        "tags": "agriculture, australia, csiro, evaporation, evapotranspiration, landsat_derived, tern, viirs_derived, water-vapor",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/TERN/TERN_AET_CMRSET_LANDSAT_V2_2_sample.png",
         "title": "Actual Evapotranspiration for Australia (CMRSET Landsat V2.2)",
         "type": "image_collection"
@@ -11922,7 +11922,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_59572747_4_0#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "projects/gcp-public-data-weathernext/assets/59572747_4_0",
         "provider": "Google",
@@ -11935,7 +11935,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_126478713_1_0#terms-of-use",
-        "end_date": "2025-03-12",
+        "end_date": "2025-03-13",
         "endyear": "2025",
         "id": "projects/gcp-public-data-weathernext/assets/126478713_1_0",
         "provider": "Google",
@@ -12026,7 +12026,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_neon-prod-earthengine_assets_HSI_REFL_002#terms-of-use",
-        "end_date": "2024-09-04",
+        "end_date": "2024-09-08",
         "endyear": "2024",
         "id": "projects/neon-prod-earthengine/assets/HSI_REFL/002",
         "provider": "NEON",
@@ -12130,7 +12130,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_sat-io_open-datasets_us-drought-monitor#terms-of-use",
-        "end_date": "2025-02-18",
+        "end_date": "2025-03-04",
         "endyear": "2025",
         "id": "projects/sat-io/open-datasets/us-drought-monitor",
         "provider": "National Drought Mitigation Center",
