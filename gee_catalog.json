@@ -742,7 +742,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_ARGO#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/ARGO",
         "provider": "Copernicus",
@@ -755,7 +755,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_DRIFTER#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/DRIFTER",
         "provider": "Copernicus",
@@ -768,7 +768,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_RADAR_RADIAL#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/RADAR_RADIAL",
         "provider": "Copernicus",
@@ -781,7 +781,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_RADAR_TOTAL#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/RADAR_TOTAL",
         "provider": "Copernicus",
@@ -807,7 +807,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_OC_GLO_BGC_PLANKTON_MULTI_4KM#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/OC_GLO_BGC/PLANKTON_MULTI_4KM",
         "provider": "Copernicus",
@@ -872,7 +872,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_OC_GLO_BGC_TRANSPARENCY_MULTI_4KM#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/OC_GLO_BGC/TRANSPARENCY_MULTI_4KM",
         "provider": "Copernicus",
@@ -937,7 +937,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/S1_GRD",
         "provider": "European Union/ESA/Copernicus",
@@ -950,7 +950,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/S2",
         "provider": "European Union/ESA/Copernicus",
@@ -963,7 +963,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_CLOUD_PROBABILITY#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/S2_CLOUD_PROBABILITY",
         "provider": "European Union/ESA/Copernicus/SentinelHub",
@@ -976,7 +976,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_HARMONIZED#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/S2_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -989,7 +989,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/S2_SR",
         "provider": "European Union/ESA/Copernicus",
@@ -1002,7 +1002,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/S2_SR_HARMONIZED",
         "provider": "European Union/ESA/Copernicus",
@@ -1015,7 +1015,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S3_OLCI#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "COPERNICUS/S3/OLCI",
         "provider": "European Union/ESA/Copernicus",
@@ -1028,7 +1028,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_AI#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -1041,7 +1041,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_LH#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -1054,7 +1054,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CLOUD#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -1067,7 +1067,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CO#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -1080,7 +1080,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_HCHO#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -1093,7 +1093,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1106,7 +1106,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_O3#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_O3",
         "provider": "European Union/ESA/Copernicus",
@@ -1119,7 +1119,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_SO2#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1132,7 +1132,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_AI#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -1145,7 +1145,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_LH#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -1158,7 +1158,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CH4#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_CH4",
         "provider": "European Union/ESA/Copernicus",
@@ -1171,7 +1171,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CLOUD#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -1184,7 +1184,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CO#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -1197,7 +1197,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_HCHO#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -1210,7 +1210,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2#terms-of-use",
-        "end_date": "2026-09-14",
+        "end_date": "2026-09-15",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1223,7 +1223,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_O3#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_O3",
         "provider": "European Union/ESA/Copernicus",
@@ -1236,7 +1236,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_O3_TCL#terms-of-use",
-        "end_date": "2026-09-08",
+        "end_date": "2026-09-09",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_O3_TCL",
         "provider": "European Union/ESA/Copernicus",
@@ -1249,7 +1249,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_SO2#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1587,7 +1587,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_CAMS_NRT#terms-of-use",
-        "end_date": "2026-09-27",
+        "end_date": "2026-09-28",
         "endyear": "2026",
         "id": "ECMWF/CAMS/NRT",
         "provider": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
@@ -1626,7 +1626,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_HOURLY_PRESSURE_LEVELS#terms-of-use",
-        "end_date": "2026-09-17",
+        "end_date": "2026-09-18",
         "endyear": "2026",
         "id": "ECMWF/ERA5/HOURLY_PRESSURE_LEVELS",
         "provider": "Copernicus Climate Change Service (C3S)",
@@ -1639,7 +1639,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR#terms-of-use",
-        "end_date": "2026-09-16",
+        "end_date": "2026-09-17",
         "endyear": "2026",
         "id": "ECMWF/ERA5_LAND/DAILY_AGGR",
         "provider": "Daily Aggregates: Google and Copernicus Climate Data Store",
@@ -1652,7 +1652,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY#terms-of-use",
-        "end_date": "2026-09-17",
+        "end_date": "2026-09-19",
         "endyear": "2026",
         "id": "ECMWF/ERA5_LAND/HOURLY",
         "provider": "Copernicus Climate Data Store",
@@ -1704,7 +1704,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_STATIC#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "ECMWF/ERA5_LAND/STATIC",
         "provider": "Copernicus Climate Data Store",
@@ -1730,7 +1730,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_OPER#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "ECMWF/NRT_FORECAST/IFS/OPER",
         "provider": "ECMWF",
@@ -1743,7 +1743,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_SCWV#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "ECMWF/NRT_FORECAST/IFS/SCWV",
         "provider": "ECMWF",
@@ -1756,7 +1756,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_WAVE#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "ECMWF/NRT_FORECAST/IFS/WAVE",
         "provider": "ECMWF",
@@ -2432,7 +2432,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_RET_E#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "FAO/WAPOR/3/L1_RET_E",
         "provider": "FAO UN",
@@ -2458,7 +2458,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FIRMS#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "FIRMS",
         "provider": "NASA / LANCE / EOSDIS",
@@ -2692,7 +2692,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "GOOGLE/CLOUD_SCORE_PLUS/V1/S2_HARMONIZED",
         "provider": "Google Earth Engine",
@@ -2705,7 +2705,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "GOOGLE/DYNAMICWORLD/V1",
         "provider": "World Resources Institute",
@@ -3017,7 +3017,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "IDAHO_EPSCOR/GRIDMET",
         "provider": "University of California Merced",
@@ -3589,7 +3589,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_LAND_LAI_V3#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "JAXA/GCOM-C/L3/LAND/LAI/V3",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -3667,7 +3667,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_CHLA_V3#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "JAXA/GCOM-C/L3/OCEAN/CHLA/V3",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -3706,7 +3706,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GCOM-C_L3_OCEAN_SST_V3#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "JAXA/GCOM-C/L3/OCEAN/SST/V3",
         "provider": "Global Change Observation Mission (GCOM)",
@@ -3719,7 +3719,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GPM_L3_GSMaP_v6_operational#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "JAXA/GPM_L3/GSMaP/v6/operational",
         "provider": "JAXA Earth Observation Research Center",
@@ -3758,7 +3758,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JAXA_GPM_L3_GSMaP_v8_operational#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "JAXA/GPM_L3/GSMaP/v8/operational",
         "provider": "JAXA Earth Observation Research Center",
@@ -3857,7 +3857,20 @@
         "startyear": "2020",
         "tags": "eudr, forest, forest-biomass, jrc",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JRC/JRC_GFC2020_V3_sample.png",
-        "title": "EC JRC global map of forest cover 2020, V3",
+        "title": "EC JRC global map of forest cover 2020, V3 [deprecated]",
+        "type": "image"
+    },
+    {
+        "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/JRC_GFC2020_V4#terms-of-use",
+        "end_date": "2020-12-31",
+        "endyear": "2020",
+        "id": "JRC/GFC2020/V4",
+        "provider": "Joint Research Centre, European Commission",
+        "start_date": "2020-12-31",
+        "startyear": "2020",
+        "tags": "eudr, forest, forest-biomass, jrc",
+        "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JRC/JRC_GFC2020_V4_sample.png",
+        "title": "EC JRC global map of forest cover 2020, V4",
         "type": "image"
     },
     {
@@ -4954,7 +4967,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "LANDSAT/LC08/C02/T1_RT",
         "provider": "USGS",
@@ -4967,7 +4980,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT_TOA#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "LANDSAT/LC08/C02/T1_RT_TOA",
         "provider": "USGS/Google",
@@ -5032,7 +5045,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T1",
         "provider": "USGS",
@@ -5045,7 +5058,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_L2#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T1_L2",
         "provider": "USGS",
@@ -5058,7 +5071,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_TOA#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T1_TOA",
         "provider": "USGS/Google",
@@ -5071,7 +5084,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T2#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T2",
         "provider": "USGS",
@@ -5084,7 +5097,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T2_L2#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T2_L2",
         "provider": "USGS",
@@ -5097,7 +5110,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T2_TOA#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T2_TOA",
         "provider": "USGS/Google",
@@ -6488,7 +6501,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD15A3H#terms-of-use",
-        "end_date": "2026-09-14",
+        "end_date": "2026-09-18",
         "endyear": "2026",
         "id": "MODIS/061/MCD15A3H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6566,7 +6579,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A2#terms-of-use",
-        "end_date": "2026-09-13",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MCD43A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6579,7 +6592,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A3#terms-of-use",
-        "end_date": "2026-09-12",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MCD43A3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6605,7 +6618,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43C3#terms-of-use",
-        "end_date": "2026-09-12",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MCD43C3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6657,7 +6670,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09CMG#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "MODIS/061/MOD09CMG",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6670,7 +6683,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09GA#terms-of-use",
-        "end_date": "2026-09-19",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "MODIS/061/MOD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6696,7 +6709,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09Q1#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MOD09Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6709,7 +6722,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD10A1#terms-of-use",
-        "end_date": "2026-09-18",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "MODIS/061/MOD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -6722,7 +6735,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD10A2#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MOD10A2",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -6735,7 +6748,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A1#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "MODIS/061/MOD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6748,7 +6761,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A2#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MOD11A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6839,7 +6852,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD14A2#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MOD14A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6852,7 +6865,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD15A2H#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MOD15A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6891,7 +6904,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD17A2H#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MOD17A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6930,7 +6943,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21A1D#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "MODIS/061/MOD21A1D",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6943,7 +6956,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21A1N#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "MODIS/061/MOD21A1N",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6956,7 +6969,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21C1#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "MODIS/061/MOD21C1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6969,7 +6982,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21C2#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MOD21C2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7034,7 +7047,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09CMG#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "MODIS/061/MYD09CMG",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7047,7 +7060,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09GA#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "MODIS/061/MYD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7086,7 +7099,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD10A1#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "MODIS/061/MYD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -7099,7 +7112,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD11A1#terms-of-use",
-        "end_date": "2026-09-18",
+        "end_date": "2026-09-20",
         "endyear": "2026",
         "id": "MODIS/061/MYD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7112,7 +7125,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD11A2#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MYD11A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7125,7 +7138,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD13A1#terms-of-use",
-        "end_date": "2026-08-21",
+        "end_date": "2026-09-06",
         "endyear": "2026",
         "id": "MODIS/061/MYD13A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7138,7 +7151,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD13A2#terms-of-use",
-        "end_date": "2026-08-21",
+        "end_date": "2026-09-06",
         "endyear": "2026",
         "id": "MODIS/061/MYD13A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7164,7 +7177,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD13C1#terms-of-use",
-        "end_date": "2026-08-21",
+        "end_date": "2026-09-06",
         "endyear": "2026",
         "id": "MODIS/061/MYD13C1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7177,7 +7190,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD13Q1#terms-of-use",
-        "end_date": "2026-08-21",
+        "end_date": "2026-09-06",
         "endyear": "2026",
         "id": "MODIS/061/MYD13Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7190,7 +7203,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD14A1#terms-of-use",
-        "end_date": "2026-09-14",
+        "end_date": "2026-09-20",
         "endyear": "2026",
         "id": "MODIS/061/MYD14A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7203,7 +7216,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD14A2#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MYD14A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7216,7 +7229,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD15A2H#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MYD15A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7242,7 +7255,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD17A2H#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MYD17A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7268,7 +7281,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21A1D#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "MODIS/061/MYD21A1D",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7281,7 +7294,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21A1N#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "MODIS/061/MYD21A1N",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7294,7 +7307,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21C1#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "MODIS/061/MYD21C1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7307,7 +7320,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21C2#terms-of-use",
-        "end_date": "2026-09-06",
+        "end_date": "2026-09-14",
         "endyear": "2026",
         "id": "MODIS/061/MYD21C2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -8061,7 +8074,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_ECOSTRESS_L2T_LSTE_V2#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/ECOSTRESS/L2T_LSTE/V2",
         "provider": "Land Processes Distributed Active Archive Center",
@@ -8074,7 +8087,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_ECOSTRESS_L2T_STARS_V2#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "NASA/ECOSTRESS/L2T_STARS/V2",
         "provider": "Land Processes Distributed Active Archive Center",
@@ -8217,7 +8230,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GEOS-CF_v2_ana_htf#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/GEOS-CF/v2/ana/htf",
         "provider": "NASA / GMAO",
@@ -8230,7 +8243,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GEOS-CF_v2_ana_tavg1hr#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/GEOS-CF/v2/ana/tavg1hr",
         "provider": "NASA / GMAO",
@@ -8243,7 +8256,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GEOS-CF_v2_fcst_htf#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/GEOS-CF/v2/fcst/htf",
         "provider": "NASA / GMAO",
@@ -8256,7 +8269,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GEOS-CF_v2_fcst_tavg1hr#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/GEOS-CF/v2/fcst/tavg1hr",
         "provider": "NASA / GMAO",
@@ -8360,7 +8373,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V07#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NASA/GPM_L3/IMERG_V07",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -8516,7 +8529,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GSFC_MERRA_aer_2#terms-of-use",
-        "end_date": "2026-08-01",
+        "end_date": "2026-08-31",
         "endyear": "2026",
         "id": "NASA/GSFC/MERRA/aer/2",
         "provider": "NASA/MERRA",
@@ -8529,7 +8542,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GSFC_MERRA_aer_nv_2#terms-of-use",
-        "end_date": "2026-08-01",
+        "end_date": "2026-09-01",
         "endyear": "2026",
         "id": "NASA/GSFC/MERRA/aer_nv/2",
         "provider": "NASA/MERRA",
@@ -8542,7 +8555,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GSFC_MERRA_flx_2#terms-of-use",
-        "end_date": "2026-08-01",
+        "end_date": "2026-09-01",
         "endyear": "2026",
         "id": "NASA/GSFC/MERRA/flx/2",
         "provider": "NASA/MERRA",
@@ -8555,7 +8568,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GSFC_MERRA_lnd_2#terms-of-use",
-        "end_date": "2026-08-01",
+        "end_date": "2026-09-01",
         "endyear": "2026",
         "id": "NASA/GSFC/MERRA/lnd/2",
         "provider": "NASA/MERRA",
@@ -8568,7 +8581,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GSFC_MERRA_rad_2#terms-of-use",
-        "end_date": "2026-08-01",
+        "end_date": "2026-09-01",
         "endyear": "2026",
         "id": "NASA/GSFC/MERRA/rad/2",
         "provider": "NASA/MERRA",
@@ -8581,7 +8594,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GSFC_MERRA_slv_2#terms-of-use",
-        "end_date": "2026-08-01",
+        "end_date": "2026-09-01",
         "endyear": "2026",
         "id": "NASA/GSFC/MERRA/slv/2",
         "provider": "NASA/MERRA",
@@ -8594,7 +8607,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSL30_v002#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "NASA/HLS/HLSL30/v002",
         "provider": "NASA LP DAAC",
@@ -8607,7 +8620,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "NASA/HLS/HLSS30/v002",
         "provider": "NASA LP DAAC",
@@ -8633,7 +8646,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_LANCE_NOAA20_VIIRS_C2#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NASA/LANCE/NOAA20_VIIRS/C2",
         "provider": "NASA / LANCE / NOAA20_VIIRS",
@@ -8646,7 +8659,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_LANCE_SNPP_VIIRS_C2#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NASA/LANCE/SNPP_VIIRS/C2",
         "provider": "NASA / LANCE / SNPP_VIIRS",
@@ -8724,7 +8737,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_NLDAS_FORA0125_H002#terms-of-use",
-        "end_date": "2026-09-19",
+        "end_date": "2026-09-20",
         "endyear": "2026",
         "id": "NASA/NLDAS/FORA0125_H002",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -8841,7 +8854,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL3SMP_E_006#terms-of-use",
-        "end_date": "2026-09-19",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/SMAP/SPL3SMP_E/006",
         "provider": "Google and NSIDC",
@@ -8867,7 +8880,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL4SMGP_008#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "NASA/SMAP/SPL4SMGP/008",
         "provider": "Google and NSIDC",
@@ -8880,7 +8893,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_CLDO4_L3_V4#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NASA/TEMPO/CLDO4_L3_V4",
         "provider": "NASA ASDC",
@@ -8919,7 +8932,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_HCHO_L3_V4#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NASA/TEMPO/HCHO_L3_V4",
         "provider": "NASA ASDC",
@@ -8932,7 +8945,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_HCHO_L3_V4_QA#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NASA/TEMPO/HCHO_L3_V4_QA",
         "provider": "QA Filtered: Google and NASA ASDC",
@@ -8971,7 +8984,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_NO2_L3_V4#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NASA/TEMPO/NO2_L3_V4",
         "provider": "NASA ASDC",
@@ -8984,7 +8997,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_NO2_L3_V4_QA#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NASA/TEMPO/NO2_L3_V4_QA",
         "provider": "QA Filtered: Google and NASA ASDC",
@@ -8997,7 +9010,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_O3PROF_L3_V4#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NASA/TEMPO/O3PROF_L3_V4",
         "provider": "NASA ASDC",
@@ -9023,7 +9036,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_O3_L3_V4_QA#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NASA/TEMPO/O3_L3_V4_QA",
         "provider": "NASA ASDC",
@@ -9036,7 +9049,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_AERDB_D3_VIIRS_NOAA20#terms-of-use",
-        "end_date": "2026-09-15",
+        "end_date": "2026-09-20",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/AERDB_D3_VIIRS_NOAA20",
         "provider": "NASA Atmosphere SIPS / LAADS DAAC",
@@ -9049,7 +9062,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_AERDB_D3_VIIRS_SNPP#terms-of-use",
-        "end_date": "2026-09-15",
+        "end_date": "2026-09-17",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/AERDB_D3_VIIRS_SNPP",
         "provider": "NASA Atmosphere SIPS / LAADS DAAC",
@@ -9062,7 +9075,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP09GA#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/VNP09GA",
         "provider": "NASA Land SIPS",
@@ -9101,7 +9114,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP14A1#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/VNP14A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -9127,7 +9140,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP21A1D#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/VNP21A1D",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -9140,7 +9153,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP21A1N#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/VNP21A1N",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -9166,7 +9179,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP43IA3#terms-of-use",
-        "end_date": "2026-09-14",
+        "end_date": "2026-09-16",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/VNP43IA3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -9179,7 +9192,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP43IA4#terms-of-use",
-        "end_date": "2026-09-14",
+        "end_date": "2026-09-16",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/VNP43IA4",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -9192,7 +9205,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP43MA3#terms-of-use",
-        "end_date": "2026-09-14",
+        "end_date": "2026-09-16",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/VNP43MA3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -9205,7 +9218,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_VNP46A2#terms-of-use",
-        "end_date": "2026-09-17",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/VNP46A2",
         "provider": "NASA LAADS DAAC",
@@ -9517,7 +9530,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_VIIRS_LAI_FAPAR_V1#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "NOAA/CDR/VIIRS/LAI_FAPAR/V1",
         "provider": "NOAA",
@@ -9530,7 +9543,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_VIIRS_NDVI_V1#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "NOAA/CDR/VIIRS/NDVI/V1",
         "provider": "NOAA",
@@ -9543,7 +9556,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSR#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NOAA/CFSR",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
@@ -9556,7 +9569,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSR_HARMONIZED#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NOAA/CFSR_HARMONIZED",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
@@ -9569,7 +9582,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSV2_FOR6H#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NOAA/CFSV2/FOR6H",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
@@ -9582,7 +9595,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSV2_FOR6H_HARMONIZED#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NOAA/CFSV2/FOR6H_HARMONIZED",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
@@ -9595,7 +9608,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CPC_Precipitation#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-23",
         "endyear": "2026",
         "id": "NOAA/CPC/Precipitation",
         "provider": "NOAA Physical Sciences Laboratory",
@@ -9647,7 +9660,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GFS0P25",
         "provider": "NOAA/NCEP/EMC",
@@ -9790,7 +9803,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCC#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GOES/18/FDCC",
         "provider": "NOAA",
@@ -9803,7 +9816,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCF#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GOES/18/FDCF",
         "provider": "NOAA",
@@ -9816,7 +9829,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPC#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GOES/18/MCMIPC",
         "provider": "NOAA",
@@ -9829,7 +9842,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPF#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GOES/18/MCMIPF",
         "provider": "NOAA",
@@ -9842,7 +9855,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPM#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GOES/18/MCMIPM",
         "provider": "NOAA",
@@ -9855,7 +9868,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_FDCC#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GOES/19/FDCC",
         "provider": "NOAA",
@@ -9868,7 +9881,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_FDCF#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GOES/19/FDCF",
         "provider": "NOAA",
@@ -9881,7 +9894,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPC#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GOES/19/MCMIPC",
         "provider": "NOAA",
@@ -9894,7 +9907,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPF#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GOES/19/MCMIPF",
         "provider": "NOAA",
@@ -9907,7 +9920,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPM#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "NOAA/GOES/19/MCMIPM",
         "provider": "NOAA",
@@ -9985,7 +9998,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_NWS_RTMA#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NOAA/NWS/RTMA",
         "provider": "NOAA/NWS",
@@ -10180,7 +10193,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_AOD_EDR_V3#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "NOAA/VIIRS/AOD_EDR/V3",
         "provider": "NOAA",
@@ -10232,7 +10245,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG#terms-of-use",
-        "end_date": "2026-07-01",
+        "end_date": "2026-08-01",
         "endyear": "2026",
         "id": "NOAA/VIIRS/DNB/MONTHLY_V1/VCMSLCFG",
         "provider": "Earth Observation Group, Payne Institute for Public Policy, Colorado School of Mines",
@@ -10284,7 +10297,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OPERA_DSWX_L3_V1_HLS#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "OPERA/DSWX/L3_V1/HLS",
         "provider": "NASA JPL",
@@ -10297,7 +10310,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OPERA_DSWX_L3_V1_S1#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "OPERA/DSWX/L3_V1/S1",
         "provider": "NASA JPL",
@@ -10310,7 +10323,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OPERA_RTC_L2_V1_S1#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "OPERA/RTC/L2_V1/S1",
         "provider": "NASA JPL",
@@ -10362,7 +10375,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_ANd#terms-of-use",
-        "end_date": "2026-09-20",
+        "end_date": "2026-09-21",
         "endyear": "2026",
         "id": "OREGONSTATE/PRISM/ANd",
         "provider": "PRISM / OREGONSTATE",
@@ -12845,7 +12858,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UTOKYO_WTLAB_KBDI_v1#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-09-22",
         "endyear": "2026",
         "id": "UTOKYO/WTLAB/KBDI/v1",
         "provider": "Institute of Industrial Science, The University of Tokyo, Japan",
@@ -14197,7 +14210,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_weathernext_2_0_0#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/weathernext_2_0_0",
         "provider": "Google",
@@ -14210,7 +14223,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_weathernext_2_0_0_mean#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/weathernext_2_0_0_mean",
         "provider": "Google",
@@ -14223,7 +14236,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_weathernext_3_0_0_0p1deg#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/weathernext_3_0_0_0p1deg",
         "provider": "Google",
@@ -14236,7 +14249,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_weathernext_3_0_0_0p05deg#terms-of-use",
-        "end_date": "2026-09-23",
+        "end_date": "2026-09-24",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/weathernext_3_0_0_0p05deg",
         "provider": "Google",
@@ -14977,7 +14990,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/overture-maps_places_place#terms-of-use",
-        "end_date": "2026-09-24",
+        "end_date": "2026-09-25",
         "endyear": "2026",
         "id": "overture-maps/places_place",
         "provider": "Overture Maps Foundation",
@@ -15081,7 +15094,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_sat-io_open-datasets_us-drought-monitor#terms-of-use",
-        "end_date": "2026-09-08",
+        "end_date": "2026-09-15",
         "endyear": "2026",
         "id": "projects/sat-io/open-datasets/us-drought-monitor",
         "provider": "National Drought Mitigation Center",
