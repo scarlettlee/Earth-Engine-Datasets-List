@@ -742,7 +742,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_ARGO#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/ARGO",
         "provider": "Copernicus",
@@ -755,7 +755,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_DRIFTER#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/DRIFTER",
         "provider": "Copernicus",
@@ -768,7 +768,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_RADAR_RADIAL#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/RADAR_RADIAL",
         "provider": "Copernicus",
@@ -781,7 +781,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_MARINE_INSITU_MULTI_4KM_RADAR_TOTAL#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "COPERNICUS/MARINE/INSITU_MULTI_4KM/RADAR_TOTAL",
         "provider": "Copernicus",
@@ -950,7 +950,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "COPERNICUS/S2",
         "provider": "European Union/ESA/Copernicus",
@@ -963,7 +963,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_CLOUD_PROBABILITY#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "COPERNICUS/S2_CLOUD_PROBABILITY",
         "provider": "European Union/ESA/Copernicus/SentinelHub",
@@ -989,7 +989,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "COPERNICUS/S2_SR",
         "provider": "European Union/ESA/Copernicus",
@@ -1028,7 +1028,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_AI#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -1041,7 +1041,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_LH#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -1054,7 +1054,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CLOUD#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -1067,7 +1067,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CO#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -1080,7 +1080,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_HCHO#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -1093,7 +1093,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1106,7 +1106,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_O3#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_O3",
         "provider": "European Union/ESA/Copernicus",
@@ -1119,7 +1119,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_SO2#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/NRTI/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1132,7 +1132,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_AI#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_AI",
         "provider": "European Union/ESA/Copernicus",
@@ -1145,7 +1145,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_AER_LH#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_AER_LH",
         "provider": "European Union/ESA/Copernicus",
@@ -1158,7 +1158,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CH4#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_CH4",
         "provider": "European Union/ESA/Copernicus",
@@ -1171,7 +1171,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CLOUD#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_CLOUD",
         "provider": "European Union/ESA/Copernicus",
@@ -1184,7 +1184,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CO#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_CO",
         "provider": "European Union/ESA/Copernicus",
@@ -1197,7 +1197,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_HCHO#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_HCHO",
         "provider": "European Union/ESA/Copernicus",
@@ -1210,7 +1210,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_NO2#terms-of-use",
-        "end_date": "2026-10-03",
+        "end_date": "2026-10-04",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_NO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1223,7 +1223,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_O3#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_O3",
         "provider": "European Union/ESA/Copernicus",
@@ -1236,7 +1236,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_O3_TCL#terms-of-use",
-        "end_date": "2026-09-27",
+        "end_date": "2026-09-28",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_O3_TCL",
         "provider": "European Union/ESA/Copernicus",
@@ -1249,7 +1249,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_SO2#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "COPERNICUS/S5P/OFFL/L3_SO2",
         "provider": "European Union/ESA/Copernicus",
@@ -1335,7 +1335,7 @@
         "startyear": "2000",
         "tags": "bhi, biodiversity, csiro, ecosystems, habitat, species",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/CSIRO/CSIRO_BHI_v4_sample.png",
-        "title": "CSIRO Biodiversity Habitat Index v4 (BHI v4)",
+        "title": "CSIRO Global Biodiversity Indicators",
         "type": "image_collection"
     },
     {
@@ -1587,7 +1587,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_CAMS_NRT#terms-of-use",
-        "end_date": "2026-10-16",
+        "end_date": "2026-10-17",
         "endyear": "2026",
         "id": "ECMWF/CAMS/NRT",
         "provider": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
@@ -1606,7 +1606,7 @@
         "provider": "ECMWF / Copernicus Climate Change Service",
         "start_date": "1979-01-02",
         "startyear": "1979",
-        "tags": "climate, copernicus, dewpoint, ecmwf, era5, precipitation, pressure, reanalysis, surface, temperature, wind",
+        "tags": "climate, copernicus, dewpoint, ecmwf, era5, precipitation, pressure, reanalysis, surface, temperature, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_ERA5_DAILY_sample.png",
         "title": "ERA5 Daily Aggregates - Latest Climate Reanalysis Produced by ECMWF / Copernicus Climate Change Service",
         "type": "image_collection"
@@ -1619,33 +1619,33 @@
         "provider": "Copernicus Climate Change Service (C3S)",
         "start_date": "1940-01-01",
         "startyear": "1940",
-        "tags": "atmosphere, climate, copernicus, ecmwf, era5, hourly, precipitation, pressure, radiation, reanalysis, temperature, weather, wind",
+        "tags": "atmosphere, climate, copernicus, ecmwf, era5, hourly, precipitation, pressure, radiation, reanalysis, temperature, weather, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_ERA5_HOURLY_sample.png",
         "title": "ERA5 Hourly - ECMWF Climate Reanalysis",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_HOURLY_PRESSURE_LEVELS#terms-of-use",
-        "end_date": "2026-10-06",
+        "end_date": "2026-10-07",
         "endyear": "2026",
         "id": "ECMWF/ERA5/HOURLY_PRESSURE_LEVELS",
         "provider": "Copernicus Climate Change Service (C3S)",
         "start_date": "1940-01-01",
         "startyear": "1940",
-        "tags": "atmosphere, climate, copernicus, ecmwf, era5, hourly, pressure, reanalysis, temperature, weather, wind",
+        "tags": "atmosphere, climate, copernicus, ecmwf, era5, hourly, pressure, reanalysis, temperature, weather, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_ERA5_HOURLY_PRESSURE_LEVELS_sample.png",
         "title": "ERA5 Hourly Pressure Levels - ECMWF Climate Reanalysis",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR#terms-of-use",
-        "end_date": "2026-10-04",
+        "end_date": "2026-10-05",
         "endyear": "2026",
         "id": "ECMWF/ERA5_LAND/DAILY_AGGR",
         "provider": "Daily Aggregates: Google and Copernicus Climate Data Store",
         "start_date": "1950-01-02",
         "startyear": "1950",
-        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, wind",
+        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_ERA5_LAND_DAILY_AGGR_sample.png",
         "title": "ERA5-Land Daily Aggregated - ECMWF Climate Reanalysis",
         "type": "image_collection"
@@ -1658,7 +1658,7 @@
         "provider": "Copernicus Climate Data Store",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, wind",
+        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_ERA5_LAND_HOURLY_sample.png",
         "title": "ERA5-Land Hourly - ECMWF Climate Reanalysis",
         "type": "image_collection"
@@ -1671,7 +1671,7 @@
         "provider": "Copernicus Climate Data Store",
         "start_date": "1950-02-01",
         "startyear": "1950",
-        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, wind",
+        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_ERA5_LAND_MONTHLY_sample.png",
         "title": "ERA5-Land Monthly Averaged - ECMWF Climate Reanalysis [deprecated]",
         "type": "image_collection"
@@ -1684,7 +1684,7 @@
         "provider": "Monthly Aggregates: Google and Copernicus Climate Data Store",
         "start_date": "1950-02-01",
         "startyear": "1950",
-        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, wind",
+        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_ERA5_LAND_MONTHLY_AGGR_sample.png",
         "title": "ERA5-Land Monthly Aggregated - ECMWF Climate Reanalysis",
         "type": "image_collection"
@@ -1697,20 +1697,20 @@
         "provider": "Climate Data Store",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, wind",
+        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_ERA5_LAND_MONTHLY_BY_HOUR_sample.png",
         "title": "ERA5-Land Monthly Averaged by Hour of Day - ECMWF Climate Reanalysis",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_STATIC#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "ECMWF/ERA5_LAND/STATIC",
         "provider": "Copernicus Climate Data Store",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, wind",
+        "tags": "cds, climate, copernicus, ecmwf, era5-land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil-water, temperature, vegetation, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_ERA5_LAND_STATIC_sample.png",
         "title": "ERA5-Land Static - ECMWF Climate Reanalysis",
         "type": "image"
@@ -1723,46 +1723,46 @@
         "provider": "ECMWF / Copernicus Climate Change Service",
         "start_date": "1979-01-01",
         "startyear": "1979",
-        "tags": "climate, copernicus, dewpoint, ecmwf, era5, precipitation, pressure, reanalysis, surface, temperature, wind",
+        "tags": "climate, copernicus, dewpoint, ecmwf, era5, precipitation, pressure, reanalysis, surface, temperature, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_ERA5_MONTHLY_sample.png",
         "title": "ERA5 Monthly Aggregates - Latest Climate Reanalysis Produced by ECMWF / Copernicus Climate Change Service",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_OPER#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "ECMWF/NRT_FORECAST/IFS/OPER",
         "provider": "ECMWF",
         "start_date": "2024-11-12",
         "startyear": "2024",
-        "tags": "climate, dewpoint, ecmwf, forecast, global, humidity, precipitation, pressure, radiation, rainfall, snow, soil-moisture, soil-temperature, temperature, wind",
+        "tags": "dewpoint, ecmwf, forecast, global, humidity, precipitation, pressure, radiation, rainfall, snow, soil-moisture, soil-temperature, temperature, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_NRT_FORECAST_IFS_OPER_sample.png",
         "title": "ECMWF Near-Realtime IFS Atmospheric Forecasts",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_SCWV#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "ECMWF/NRT_FORECAST/IFS/SCWV",
         "provider": "ECMWF",
         "start_date": "2024-11-12",
         "startyear": "2024",
-        "tags": "climate, ecmwf, forecast, global, oceans",
+        "tags": "ecmwf, forecast, global, oceans, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_NRT_FORECAST_IFS_SCWV_sample.png",
         "title": "ECMWF Near-Realtime IFS Wave (Short-Cutoff) Forecasts",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_NRT_FORECAST_IFS_WAVE#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "ECMWF/NRT_FORECAST/IFS/WAVE",
         "provider": "ECMWF",
         "start_date": "2024-11-12",
         "startyear": "2024",
-        "tags": "climate, ecmwf, forecast, global, oceans",
+        "tags": "ecmwf, forecast, global, oceans, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/ECMWF/ECMWF_NRT_FORECAST_IFS_WAVE_sample.png",
         "title": "ECMWF Near-Realtime IFS Wave Forecasts",
         "type": "image_collection"
@@ -2243,7 +2243,7 @@
         "provider": "FAO UN",
         "start_date": "1992-01-01",
         "startyear": "1992",
-        "tags": "agriculture, climate, climate-change, emissions, fao, ghg, organic-soils",
+        "tags": "agriculture, climate, climate-change, emissions, fao, ghg, organic-soils, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/FAO/FAO_GHG_1_DROSA_A_sample.png",
         "title": "UN FAO Drained Organic Soils Area (Annual) 1.0",
         "type": "image_collection"
@@ -2256,7 +2256,7 @@
         "provider": "FAO UN",
         "start_date": "1992-01-01",
         "startyear": "1992",
-        "tags": "agriculture, climate, climate-change, emissions, fao, ghg, organic-soils",
+        "tags": "agriculture, climate, climate-change, emissions, fao, ghg, organic-soils, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/FAO/FAO_GHG_1_DROSE_A_sample.png",
         "title": "Drained Organic Soils Emissions (Annual) 1.0",
         "type": "image_collection"
@@ -2380,7 +2380,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_AETI_D#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-10-01",
         "endyear": "2026",
         "id": "FAO/WAPOR/3/L1_AETI_D",
         "provider": "FAO UN",
@@ -2393,7 +2393,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_E_D#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-10-01",
         "endyear": "2026",
         "id": "FAO/WAPOR/3/L1_E_D",
         "provider": "FAO UN",
@@ -2406,7 +2406,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_I_D#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-10-01",
         "endyear": "2026",
         "id": "FAO/WAPOR/3/L1_I_D",
         "provider": "FAO UN",
@@ -2432,7 +2432,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_RET_E#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "FAO/WAPOR/3/L1_RET_E",
         "provider": "FAO UN",
@@ -2445,7 +2445,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_T_D#terms-of-use",
-        "end_date": "2026-09-21",
+        "end_date": "2026-10-01",
         "endyear": "2026",
         "id": "FAO/WAPOR/3/L1_T_D",
         "provider": "FAO UN",
@@ -2458,7 +2458,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/FIRMS#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "FIRMS",
         "provider": "NASA / LANCE / EOSDIS",
@@ -2692,7 +2692,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "GOOGLE/CLOUD_SCORE_PLUS/V1/S2_HARMONIZED",
         "provider": "Google Earth Engine",
@@ -3023,7 +3023,7 @@
         "provider": "University of California Merced",
         "start_date": "1979-01-01",
         "startyear": "1979",
-        "tags": "climate, fireburning, gridmet, humidity, merced, metdata, nfdrs, precipitation, radiation, temperature, water-vapor, wind",
+        "tags": "climate, fireburning, gridmet, humidity, merced, metdata, nfdrs, precipitation, radiation, temperature, water-vapor, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/IDAHO_EPSCOR/IDAHO_EPSCOR_GRIDMET_sample.png",
         "title": "GRIDMET: University of Idaho Gridded Surface Meteorological Dataset",
         "type": "image_collection"
@@ -3036,7 +3036,7 @@
         "provider": "University of California Merced",
         "start_date": "1900-01-01",
         "startyear": "1900",
-        "tags": "climate, conus, geophysical, idaho, maca, monthly",
+        "tags": "climate, conus, geophysical, idaho, maca, monthly, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/IDAHO_EPSCOR/IDAHO_EPSCOR_MACAv2_METDATA_sample.png",
         "title": "MACAv2-METDATA: University of Idaho, Multivariate Adaptive Constructed Analogs Applied to Global Climate Models",
         "type": "image_collection"
@@ -3049,7 +3049,7 @@
         "provider": "University of California Merced",
         "start_date": "1900-01-01",
         "startyear": "1900",
-        "tags": "climate, conus, geophysical, idaho, maca, monthly",
+        "tags": "climate, conus, geophysical, idaho, maca, monthly, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/IDAHO_EPSCOR/IDAHO_EPSCOR_MACAv2_METDATA_MONTHLY_sample.png",
         "title": "MACAv2-METDATA Monthly Summaries: University of Idaho, Multivariate Adaptive Constructed Analogs Applied to Global  Climate Models",
         "type": "image_collection"
@@ -3075,7 +3075,7 @@
         "provider": "University of California Merced",
         "start_date": "1958-01-01",
         "startyear": "1958",
-        "tags": "climate, drought, evapotranspiration, geophysical, global, merced, monthly, palmer, pdsi, precipitation, runoff, temperature, vapor, water-vapor, wind",
+        "tags": "climate, drought, evapotranspiration, geophysical, global, merced, monthly, palmer, pdsi, precipitation, runoff, temperature, vapor, water-vapor, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/IDAHO_EPSCOR/IDAHO_EPSCOR_TERRACLIMATE_sample.png",
         "title": "TerraClimate:  Monthly Climate and Climatic Water Balance for Global Terrestrial Surfaces, University of Idaho",
         "type": "image_collection"
@@ -3608,7 +3608,7 @@
         "provider": "Global Change Observation Mission (GCOM)",
         "start_date": "2018-01-01",
         "startyear": "2018",
-        "tags": "climate, g-portal, gcom, gcom-c, jaxa, land, land-surface-temperature, lst",
+        "tags": "climate, g-portal, gcom, gcom-c, jaxa, land, land-surface-temperature, lst, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GCOM-C_L3_LAND_LST_V1_sample.png",
         "title": "GCOM-C/SGLI L3 Land Surface Temperature (V1)",
         "type": "image_collection"
@@ -3621,7 +3621,7 @@
         "provider": "Global Change Observation Mission (GCOM)",
         "start_date": "2018-01-01",
         "startyear": "2018",
-        "tags": "climate, g-portal, gcom, gcom-c, jaxa, land, land-surface-temperature, lst",
+        "tags": "climate, g-portal, gcom, gcom-c, jaxa, land, land-surface-temperature, lst, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GCOM-C_L3_LAND_LST_V2_sample.png",
         "title": "GCOM-C/SGLI L3 Land Surface Temperature (V2)",
         "type": "image_collection"
@@ -3634,7 +3634,7 @@
         "provider": "Global Change Observation Mission (GCOM)",
         "start_date": "2021-11-29",
         "startyear": "2021",
-        "tags": "climate, g-portal, gcom, gcom-c, jaxa, land, land-surface-temperature, lst",
+        "tags": "climate, g-portal, gcom, gcom-c, jaxa, land, land-surface-temperature, lst, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/JAXA/JAXA_GCOM-C_L3_LAND_LST_V3_sample.png",
         "title": "GCOM-C/SGLI L3 Land Surface Temperature (V3)",
         "type": "image_collection"
@@ -5058,7 +5058,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_L2#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T1_L2",
         "provider": "USGS",
@@ -5097,7 +5097,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T2_L2#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "LANDSAT/LC09/C02/T2_L2",
         "provider": "USGS",
@@ -5948,7 +5948,7 @@
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
         "start_date": "2000-03-01",
         "startyear": "2000",
-        "tags": "atmosphere, climate, geophysical, global, mod08, mod08-m3, modis, monthly, nasa, temperature, terra, usgs",
+        "tags": "atmosphere, climate, geophysical, global, mod08, mod08-m3, modis, monthly, nasa, temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_006_MOD08_M3_sample.png",
         "title": "MOD08_M3.006 Terra Aerosol Cloud Water Vapor Ozone Monthly Global Product 1Deg CMG [deprecated]",
         "type": "image_collection"
@@ -6026,7 +6026,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "climate, daily, emissivity, global, lst, mod11a1, modis, nasa, surface-temperature, terra, usgs",
+        "tags": "daily, emissivity, global, lst, mod11a1, modis, nasa, surface-temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_006_MOD11A1_sample.png",
         "title": "MOD11A1.006 Terra Land Surface Temperature and Emissivity Daily Global 1km [deprecated]",
         "type": "image_collection"
@@ -6039,7 +6039,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "8-day, climate, emissivity, global, lst, mod11a2, modis, nasa, surface-temperature, terra, usgs",
+        "tags": "8-day, emissivity, global, lst, mod11a2, modis, nasa, surface-temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_006_MOD11A2_sample.png",
         "title": "MOD11A2.006 Terra Land Surface Temperature and Emissivity 8-Day Global 1km [deprecated]",
         "type": "image_collection"
@@ -6221,7 +6221,7 @@
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
         "start_date": "2002-07-01",
         "startyear": "2002",
-        "tags": "aqua, atmosphere, climate, geophysical, global, modis, monthly, myd08, myd08-m3, nasa, temperature, usgs",
+        "tags": "aqua, atmosphere, climate, geophysical, global, modis, monthly, myd08, myd08-m3, nasa, temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_006_MYD08_M3_sample.png",
         "title": "MYD08_M3.006 Aqua Aerosol Cloud Water Vapor Ozone Monthly Global Product 1Deg CMG [deprecated]",
         "type": "image_collection"
@@ -6299,7 +6299,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "aqua, climate, daily, emissivity, global, lst, modis, myd11a1, nasa, surface-temperature, usgs",
+        "tags": "aqua, daily, emissivity, global, lst, modis, myd11a1, nasa, surface-temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_006_MYD11A1_sample.png",
         "title": "MYD11A1.006 Aqua Land Surface Temperature and Emissivity Daily Global 1km [deprecated]",
         "type": "image_collection"
@@ -6312,7 +6312,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "8-day, aqua, climate, emissivity, global, lst, modis, myd11a2, nasa, surface-temperature, usgs",
+        "tags": "8-day, aqua, emissivity, global, lst, modis, myd11a2, nasa, surface-temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_006_MYD11A2_sample.png",
         "title": "MYD11A2.006 Aqua Land Surface Temperature and Emissivity 8-Day Global 1km [deprecated]",
         "type": "image_collection"
@@ -6501,7 +6501,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD15A3H#terms-of-use",
-        "end_date": "2026-09-30",
+        "end_date": "2026-10-04",
         "endyear": "2026",
         "id": "MODIS/061/MCD15A3H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6520,7 +6520,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "climate, par, radiation",
+        "tags": "par, radiation, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MCD18A1_sample.png",
         "title": "MCD18A1.061 Surface Radiation Daily/3-Hour [deprecated]",
         "type": "image_collection"
@@ -6533,7 +6533,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2002-02-24",
         "startyear": "2002",
-        "tags": "climate, par, radiation",
+        "tags": "par, radiation, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MCD18C2_sample.png",
         "title": "MCD18C2.061 Photosynthetically Active Radiation Daily 3-Hour [deprecated]",
         "type": "image_collection"
@@ -6566,7 +6566,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A1#terms-of-use",
-        "end_date": "2026-10-01",
+        "end_date": "2026-10-02",
         "endyear": "2026",
         "id": "MODIS/061/MCD43A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6579,7 +6579,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A2#terms-of-use",
-        "end_date": "2026-10-01",
+        "end_date": "2026-10-02",
         "endyear": "2026",
         "id": "MODIS/061/MCD43A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6592,7 +6592,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A3#terms-of-use",
-        "end_date": "2026-10-01",
+        "end_date": "2026-10-02",
         "endyear": "2026",
         "id": "MODIS/061/MCD43A3",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6605,7 +6605,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD43A4#terms-of-use",
-        "end_date": "2026-10-01",
+        "end_date": "2026-10-02",
         "endyear": "2026",
         "id": "MODIS/061/MCD43A4",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6650,14 +6650,14 @@
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
         "start_date": "2000-02-01",
         "startyear": "2000",
-        "tags": "atmosphere, climate, geophysical, global, mod08, mod08-m3, modis, monthly, nasa, temperature, terra, usgs",
+        "tags": "atmosphere, climate, geophysical, global, mod08, mod08-m3, modis, monthly, nasa, temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MOD08_M3_sample.png",
         "title": "MOD08_M3.061 Terra Atmosphere Monthly Global Product",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09A1#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-30",
         "endyear": "2026",
         "id": "MODIS/061/MOD09A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6683,7 +6683,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09GA#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "MODIS/061/MOD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6696,7 +6696,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09GQ#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "MODIS/061/MOD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6709,7 +6709,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD09Q1#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-30",
         "endyear": "2026",
         "id": "MODIS/061/MOD09Q1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6735,7 +6735,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD10A2#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-30",
         "endyear": "2026",
         "id": "MODIS/061/MOD10A2",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -6754,20 +6754,20 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "climate, daily, emissivity, global, lst, mod11a1, modis, nasa, surface-temperature, terra, usgs",
+        "tags": "daily, emissivity, global, lst, mod11a1, modis, nasa, surface-temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MOD11A1_sample.png",
         "title": "MOD11A1.061 Terra Land Surface Temperature and Emissivity Daily Global 1km",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A2#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-30",
         "endyear": "2026",
         "id": "MODIS/061/MOD11A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-18",
         "startyear": "2000",
-        "tags": "8-day, climate, emissivity, global, lst, mod11a2, modis, nasa, surface-temperature, terra, usgs",
+        "tags": "8-day, emissivity, global, lst, mod11a2, modis, nasa, surface-temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MOD11A2_sample.png",
         "title": "MOD11A2.061 Terra Land Surface Temperature and Emissivity 8-Day Global 1km",
         "type": "image_collection"
@@ -6852,7 +6852,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD14A2#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-30",
         "endyear": "2026",
         "id": "MODIS/061/MOD14A2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6865,7 +6865,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD15A2H#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-30",
         "endyear": "2026",
         "id": "MODIS/061/MOD15A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6904,7 +6904,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD17A2H#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-30",
         "endyear": "2026",
         "id": "MODIS/061/MOD17A2H",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -6949,46 +6949,46 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "climate, daily, emissivity, global, lst, nasa, surface-temperature, terra, usgs",
+        "tags": "daily, emissivity, global, lst, nasa, surface-temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MOD21A1D_sample.png",
         "title": "MOD21A1D.061 Terra Land Surface Temperature and 3-Band Emissivity Daily Global 1km",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21A1N#terms-of-use",
-        "end_date": "2026-10-09",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "MODIS/061/MOD21A1N",
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "climate, daily, emissivity, global, lst, nasa, surface-temperature, terra, usgs",
+        "tags": "daily, emissivity, global, lst, nasa, surface-temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MOD21A1N_sample.png",
         "title": "MOD21A1N.061 Terra Land Surface Temperature and 3-Band Emissivity Daily Global 1km",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21C1#terms-of-use",
-        "end_date": "2026-10-09",
+        "end_date": "2026-10-12",
         "endyear": "2026",
         "id": "MODIS/061/MOD21C1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "climate, daily, emissivity, global, lst, nasa, surface-temperature, terra, usgs",
+        "tags": "daily, emissivity, global, lst, nasa, surface-temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MOD21C1_sample.png",
         "title": "MOD21C1.061 Terra Land Surface Temperature and 3-Band Emissivity Daily L3 Global 0.05 Deg CMG",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD21C2#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-30",
         "endyear": "2026",
         "id": "MODIS/061/MOD21C2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "climate, emissivity, global, lst, nasa, surface-temperature, terra, usgs",
+        "tags": "emissivity, global, lst, nasa, surface-temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MOD21C2_sample.png",
         "title": "MOD21C2.061 Terra Land Surface Temperature and 3-Band Emissivity 8-Day L3 Global 0.05 Deg CMG",
         "type": "image_collection"
@@ -7001,7 +7001,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "climate, emissivity, global, lst, monthly, nasa, surface-temperature, terra, usgs",
+        "tags": "emissivity, global, lst, monthly, nasa, surface-temperature, terra, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MOD21C3_sample.png",
         "title": "MOD21C3.061 Terra Land Surface Temperature and 3-Band Emissivity Monthly L3 Global 0.05 Deg CMG",
         "type": "image_collection"
@@ -7027,7 +7027,7 @@
         "provider": "NASA LAADS DAAC at NASA Goddard Space Flight Center",
         "start_date": "2002-07-01",
         "startyear": "2002",
-        "tags": "aqua, atmosphere, climate, geophysical, global, modis, monthly, myd08, myd08-m3, nasa, temperature, usgs",
+        "tags": "aqua, atmosphere, climate, geophysical, global, modis, monthly, myd08, myd08-m3, nasa, temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MYD08_M3_sample.png",
         "title": "MYD08_M3.061 Aqua Atmosphere Monthly Global Product",
         "type": "image_collection"
@@ -7047,7 +7047,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09CMG#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "MODIS/061/MYD09CMG",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7060,7 +7060,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09GA#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "MODIS/061/MYD09GA",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7073,7 +7073,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD09GQ#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "MODIS/061/MYD09GQ",
         "provider": "NASA LP DAAC at the USGS EROS Center",
@@ -7099,7 +7099,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD10A1#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "MODIS/061/MYD10A1",
         "provider": "NASA NSIDC DAAC at CIRES",
@@ -7112,13 +7112,13 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD11A1#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "MODIS/061/MYD11A1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "aqua, climate, daily, emissivity, global, lst, modis, myd11a1, nasa, surface-temperature, usgs",
+        "tags": "aqua, daily, emissivity, global, lst, modis, myd11a1, nasa, surface-temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MYD11A1_sample.png",
         "title": "MYD11A1.061 Aqua Land Surface Temperature and Emissivity Daily Global 1km",
         "type": "image_collection"
@@ -7131,7 +7131,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2002-07-04",
         "startyear": "2002",
-        "tags": "8-day, aqua, climate, emissivity, global, lst, modis, myd11a2, nasa, surface-temperature, usgs",
+        "tags": "8-day, aqua, emissivity, global, lst, modis, myd11a2, nasa, surface-temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MYD11A2_sample.png",
         "title": "MYD11A2.061 Aqua Land Surface Temperature and Emissivity 8-Day Global 1km",
         "type": "image_collection"
@@ -7281,52 +7281,52 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21A1D#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-10",
         "endyear": "2026",
         "id": "MODIS/061/MYD21A1D",
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "aqua, climate, daily, emissivity, global, lst, nasa, surface-temperature, usgs",
+        "tags": "aqua, daily, emissivity, global, lst, nasa, surface-temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MYD21A1D_sample.png",
         "title": "MYD21A1D.061 Aqua Land Surface Temperature and 3-Band Emissivity Daily Global 1km",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21A1N#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-10",
         "endyear": "2026",
         "id": "MODIS/061/MYD21A1N",
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "aqua, climate, daily, emissivity, global, lst, nasa, surface-temperature, usgs",
+        "tags": "aqua, daily, emissivity, global, lst, nasa, surface-temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MYD21A1N_sample.png",
         "title": "MYD21A1N.061 Aqua Land Surface Temperature and 3-Band Emissivity Daily Global 1km",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21C1#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "MODIS/061/MYD21C1",
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "aqua, climate, daily, emissivity, global, lst, nasa, surface-temperature, usgs",
+        "tags": "aqua, daily, emissivity, global, lst, nasa, surface-temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MYD21C1_sample.png",
         "title": "MYD21C1.061 Aqua Land Surface Temperature and 3-Band Emissivity Daily L3 Global 0.05 Deg CMG",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD21C2#terms-of-use",
-        "end_date": "2026-09-22",
+        "end_date": "2026-09-30",
         "endyear": "2026",
         "id": "MODIS/061/MYD21C2",
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "aqua, climate, emissivity, global, lst, nasa, surface-temperature, usgs",
+        "tags": "aqua, emissivity, global, lst, nasa, surface-temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MYD21C2_sample.png",
         "title": "MYD21C2.061 Aqua Land Surface Temperature and 3-Band Emissivity 8-Day L3 Global 0.05 Deg CMG",
         "type": "image_collection"
@@ -7339,7 +7339,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "aqua, climate, emissivity, global, lst, monthly, nasa, surface-temperature, usgs",
+        "tags": "aqua, emissivity, global, lst, monthly, nasa, surface-temperature, usgs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_061_MYD21C3_sample.png",
         "title": "MYD21C3.061 Aqua Land Surface Temperature and 3-Band Emissivity Monthly L3 Global 0.05 Deg CMG",
         "type": "image_collection"
@@ -7352,7 +7352,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-03-03",
         "startyear": "2000",
-        "tags": "climate, par, radiation",
+        "tags": "par, radiation, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_062_MCD18A1_sample.png",
         "title": "MCD18A1.062 Surface Radiation Daily/3-Hour",
         "type": "image_collection"
@@ -7365,7 +7365,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2000-02-24",
         "startyear": "2000",
-        "tags": "climate, par, radiation",
+        "tags": "par, radiation, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/MODIS/MODIS_062_MCD18C2_sample.png",
         "title": "MCD18C2.062 Photosynthetically Active Radiation Daily 3-Hour",
         "type": "image_collection"
@@ -8074,7 +8074,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_ECOSTRESS_L2T_LSTE_V2#terms-of-use",
-        "end_date": "2026-10-11",
+        "end_date": "2026-10-12",
         "endyear": "2026",
         "id": "NASA/ECOSTRESS/L2T_LSTE/V2",
         "provider": "Land Processes Distributed Active Archive Center",
@@ -8158,7 +8158,7 @@
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
         "start_date": "1982-01-01",
         "startyear": "1982",
-        "tags": "climate, cryosphere, evapotranspiration, famine, fldas, humidity, ldas, monthly, nasa, precipitation, runoff, snow, soil, soil-moisture, soil-temperature, temperature, water-vapor, wind",
+        "tags": "climate, cryosphere, evapotranspiration, famine, fldas, humidity, ldas, monthly, nasa, precipitation, runoff, snow, soil, soil-moisture, soil-temperature, temperature, water-vapor, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_FLDAS_NOAH01_C_GL_M_V001_sample.png",
         "title": "FLDAS: Famine Early Warning Systems Network (FEWS NET) Land Data Assimilation System",
         "type": "image_collection"
@@ -8171,7 +8171,7 @@
         "provider": "NASA / Climate Analytics Group",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "cag, climate, gddp, geophysical, ipcc, nasa, nex, precipitation, temperature",
+        "tags": "cag, climate, gddp, geophysical, ipcc, nasa, nex, precipitation, temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GDDP-CMIP6_sample.png",
         "title": "NEX-GDDP-CMIP6: NASA Earth Exchange Global Daily Downscaled Climate Projections",
         "type": "image_collection"
@@ -8230,7 +8230,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GEOS-CF_v2_ana_htf#terms-of-use",
-        "end_date": "2026-10-11",
+        "end_date": "2026-10-12",
         "endyear": "2026",
         "id": "NASA/GEOS-CF/v2/ana/htf",
         "provider": "NASA / GMAO",
@@ -8243,7 +8243,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GEOS-CF_v2_ana_tavg1hr#terms-of-use",
-        "end_date": "2026-10-11",
+        "end_date": "2026-10-12",
         "endyear": "2026",
         "id": "NASA/GEOS-CF/v2/ana/tavg1hr",
         "provider": "NASA / GMAO",
@@ -8256,7 +8256,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GEOS-CF_v2_fcst_htf#terms-of-use",
-        "end_date": "2026-10-11",
+        "end_date": "2026-10-12",
         "endyear": "2026",
         "id": "NASA/GEOS-CF/v2/fcst/htf",
         "provider": "NASA / GMAO",
@@ -8269,7 +8269,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GEOS-CF_v2_fcst_tavg1hr#terms-of-use",
-        "end_date": "2026-10-11",
+        "end_date": "2026-10-12",
         "endyear": "2026",
         "id": "NASA/GEOS-CF/v2/fcst/tavg1hr",
         "provider": "NASA / GMAO",
@@ -8301,7 +8301,7 @@
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
         "start_date": "1948-01-01",
         "startyear": "1948",
-        "tags": "3-hourly, climate, cryosphere, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil-moisture, surface, temperature, water-vapor, wind",
+        "tags": "3-hourly, climate, cryosphere, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil-moisture, surface, temperature, water-vapor, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GLDAS_V20_NOAH_G025_T3H_sample.png",
         "title": "Reprocessed GLDAS-2.0: Global Land Data Assimilation System",
         "type": "image_collection"
@@ -8314,7 +8314,7 @@
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
         "start_date": "2000-01-01",
         "startyear": "2000",
-        "tags": "3-hourly, climate, cryosphere, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil-moisture, surface, temperature, water-vapor, wind",
+        "tags": "3-hourly, climate, cryosphere, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil-moisture, surface, temperature, water-vapor, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GLDAS_V021_NOAH_G025_T3H_sample.png",
         "title": "GLDAS-2.1: Global Land Data Assimilation System",
         "type": "image_collection"
@@ -8327,7 +8327,7 @@
         "provider": "NASA GES DISC at NASA Goddard Earth Sciences Data and Information Services Center",
         "start_date": "2003-01-01",
         "startyear": "2003",
-        "tags": "3-hourly, climate, cryosphere, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil-moisture, surface, temperature, water-vapor, wind",
+        "tags": "3-hourly, climate, cryosphere, evaporation, forcing, geophysical, gldas, humidity, ldas, nasa, precipitation, pressure, radiation, soil, soil-moisture, surface, temperature, water-vapor, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GLDAS_V022_CLSM_G025_DA1D_sample.png",
         "title": "GLDAS-2.2: Global Land Data Assimilation System",
         "type": "image_collection"
@@ -8373,7 +8373,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V07#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "NASA/GPM_L3/IMERG_V07",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
@@ -8561,7 +8561,7 @@
         "provider": "NASA/MERRA",
         "start_date": "1980-01-01",
         "startyear": "1980",
-        "tags": "climate, merra, precipitation, sea-salt, so2, so4, soil-moisture",
+        "tags": "climate, merra, precipitation, sea-salt, so2, so4, soil-moisture, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GSFC_MERRA_flx_2_sample.png",
         "title": "MERRA-2 M2T1NXFLX: Surface Flux Diagnostics V5.12.4",
         "type": "image_collection"
@@ -8574,7 +8574,7 @@
         "provider": "NASA/MERRA",
         "start_date": "1980-01-01",
         "startyear": "1980",
-        "tags": "climate, cryosphere, evaporation, ice, merra, precipitation, soil, temperature, water-vapor",
+        "tags": "climate, cryosphere, evaporation, ice, merra, precipitation, soil, temperature, water-vapor, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GSFC_MERRA_lnd_2_sample.png",
         "title": "MERRA-2 M2T1NXLND: Land Surface Diagnostics V5.12.4",
         "type": "image_collection"
@@ -8587,7 +8587,7 @@
         "provider": "NASA/MERRA",
         "start_date": "1980-01-01",
         "startyear": "1980",
-        "tags": "albedo, atmosphere, climate, emissivity, merra, shortwave, temperature",
+        "tags": "albedo, atmosphere, climate, emissivity, merra, shortwave, temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GSFC_MERRA_rad_2_sample.png",
         "title": "MERRA-2 M2T1NXRAD: Radiation Diagnostics V5.12.4",
         "type": "image_collection"
@@ -8600,14 +8600,14 @@
         "provider": "NASA/MERRA",
         "start_date": "1980-01-01",
         "startyear": "1980",
-        "tags": "atmosphere, climate, condensation, humidity, merra, nasa, omega, pressure, slv, temperature, vapor, water, water-vapor, wind",
+        "tags": "atmosphere, climate, condensation, humidity, merra, nasa, omega, pressure, slv, temperature, vapor, water, water-vapor, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_GSFC_MERRA_slv_2_sample.png",
         "title": "MERRA-2 M2T1NXSLV: Single-Level Diagnostics V5.12.4",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSL30_v002#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "NASA/HLS/HLSL30/v002",
         "provider": "NASA LP DAAC",
@@ -8620,7 +8620,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "NASA/HLS/HLSS30/v002",
         "provider": "NASA LP DAAC",
@@ -8704,7 +8704,7 @@
         "provider": "NASA / Climate Analytics Group",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "cag, climate, cmip5, geophysical, ipcc, nasa, nex, precipitation, temperature",
+        "tags": "cag, climate, cmip5, geophysical, ipcc, nasa, nex, precipitation, temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_NEX-DCP30_sample.png",
         "title": "NEX-DCP30: NASA Earth Exchange Downscaled Climate Projections",
         "type": "image_collection"
@@ -8717,7 +8717,7 @@
         "provider": "NASA / Climate Analytics Group",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "cag, climate, cmip5, geophysical, ipcc, nasa, nex, precipitation, temperature",
+        "tags": "cag, climate, cmip5, geophysical, ipcc, nasa, nex, precipitation, temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_NEX-DCP30_ENSEMBLE_STATS_sample.png",
         "title": "NEX-DCP30: Ensemble Stats for NASA Earth Exchange Downscaled Climate Projections",
         "type": "image_collection"
@@ -8730,20 +8730,20 @@
         "provider": "NASA /  Climate Analytics Group",
         "start_date": "1950-01-01",
         "startyear": "1950",
-        "tags": "cag, climate, cmip5, gddp, geophysical, ipcc, nasa, nex, precipitation, temperature",
+        "tags": "cag, climate, cmip5, gddp, geophysical, ipcc, nasa, nex, precipitation, temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_NEX-GDDP_sample.png",
         "title": "NEX-GDDP: NASA Earth Exchange Global Daily Downscaled Climate Projections",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_NLDAS_FORA0125_H002#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-10",
         "endyear": "2026",
         "id": "NASA/NLDAS/FORA0125_H002",
         "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
         "start_date": "1979-01-01",
         "startyear": "1979",
-        "tags": "climate, evaporation, forcing, geophysical, hourly, humidity, ldas, nasa, nldas, precipitation, pressure, radiation, soil, temperature, water-vapor, wind",
+        "tags": "climate, evaporation, forcing, geophysical, hourly, humidity, ldas, nasa, nldas, precipitation, pressure, radiation, soil, temperature, water-vapor, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_NLDAS_FORA0125_H002_sample.png",
         "title": "NLDAS-2: North American Land Data Assimilation System Forcing Fields",
         "type": "image_collection"
@@ -8795,7 +8795,7 @@
         "provider": "NASA ORNL DAAC at Oak Ridge National Laboratory",
         "start_date": "1980-01-01",
         "startyear": "1980",
-        "tags": "climate, daily, daylight, daymet, flux, geophysical, nasa, ornl, precipitation, radiation, snow, temperature, vapor, water, weather",
+        "tags": "climate, daily, daylight, daymet, flux, geophysical, nasa, ornl, precipitation, radiation, snow, temperature, vapor, water, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_ORNL_DAYMET_V3_sample.png",
         "title": "Daymet V3: Daily Surface Weather and Climatological Summaries [deprecated]",
         "type": "image_collection"
@@ -8808,7 +8808,7 @@
         "provider": "NASA ORNL DAAC at Oak Ridge National Laboratory",
         "start_date": "1980-01-01",
         "startyear": "1980",
-        "tags": "climate, daily, daylight, daymet, flux, geophysical, nasa, ornl, precipitation, radiation, snow, temperature, vapor, water, weather",
+        "tags": "climate, daily, daylight, daymet, flux, geophysical, nasa, ornl, precipitation, radiation, snow, temperature, vapor, water, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_ORNL_DAYMET_V4_sample.png",
         "title": "Daymet V4: Daily Surface Weather and Climatological Summaries",
         "type": "image_collection"
@@ -8893,7 +8893,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_CLDO4_L3_V4#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "NASA/TEMPO/CLDO4_L3_V4",
         "provider": "NASA ASDC",
@@ -8932,7 +8932,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_HCHO_L3_V4#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "NASA/TEMPO/HCHO_L3_V4",
         "provider": "NASA ASDC",
@@ -8984,7 +8984,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_NO2_L3_V4#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "NASA/TEMPO/NO2_L3_V4",
         "provider": "NASA ASDC",
@@ -9010,7 +9010,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_O3PROF_L3_V4#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "NASA/TEMPO/O3PROF_L3_V4",
         "provider": "NASA ASDC",
@@ -9036,7 +9036,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_TEMPO_O3_L3_V4_QA#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "NASA/TEMPO/O3_L3_V4_QA",
         "provider": "NASA ASDC",
@@ -9049,7 +9049,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_AERDB_D3_VIIRS_NOAA20#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-09",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/AERDB_D3_VIIRS_NOAA20",
         "provider": "NASA Atmosphere SIPS / LAADS DAAC",
@@ -9062,7 +9062,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_VIIRS_002_AERDB_D3_VIIRS_SNPP#terms-of-use",
-        "end_date": "2026-10-08",
+        "end_date": "2026-10-09",
         "endyear": "2026",
         "id": "NASA/VIIRS/002/AERDB_D3_VIIRS_SNPP",
         "provider": "NASA Atmosphere SIPS / LAADS DAAC",
@@ -9146,7 +9146,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2012-01-19",
         "startyear": "2012",
-        "tags": "climate, daily, day, land, nasa, noaa, surface, temperature, viirs",
+        "tags": "daily, day, land, nasa, noaa, surface, temperature, viirs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_VIIRS_002_VNP21A1D_sample.png",
         "title": "VNP21A1D.002: Day Land Surface Temperature and Emissivity Daily 1km",
         "type": "image_collection"
@@ -9159,7 +9159,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2012-01-19",
         "startyear": "2012",
-        "tags": "climate, daily, land, nasa, night, noaa, surface, temperature, viirs",
+        "tags": "daily, land, nasa, night, noaa, surface, temperature, viirs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NASA/NASA_VIIRS_002_VNP21A1N_sample.png",
         "title": "VNP21A1N.002: Night Land Surface Temperature and Emissivity Daily 1km",
         "type": "image_collection"
@@ -9289,7 +9289,7 @@
         "provider": "NCEP",
         "start_date": "1948-01-01",
         "startyear": "1948",
-        "tags": "atmosphere, climate, geophysical, ncep, noaa, pressure, reanalysis",
+        "tags": "atmosphere, climate, geophysical, ncep, noaa, pressure, reanalysis, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NCEP_RE/NCEP_RE_sea_level_pressure_sample.png",
         "title": "NCEP/NCAR Reanalysis Data, Sea-Level Pressure [deprecated]",
         "type": "image_collection"
@@ -9302,7 +9302,7 @@
         "provider": "NCEP",
         "start_date": "1948-01-01",
         "startyear": "1948",
-        "tags": "atmosphere, climate, geophysical, ncep, noaa, reanalysis, temperature",
+        "tags": "atmosphere, climate, geophysical, ncep, noaa, reanalysis, temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NCEP_RE/NCEP_RE_surface_temp_sample.png",
         "title": "NCEP/NCAR Reanalysis Data, Surface Temperature [deprecated]",
         "type": "image_collection"
@@ -9315,7 +9315,7 @@
         "provider": "NCEP",
         "start_date": "1948-01-01",
         "startyear": "1948",
-        "tags": "atmosphere, climate, geophysical, ncep, noaa, precipitable, reanalysis, vapor",
+        "tags": "atmosphere, climate, geophysical, ncep, noaa, precipitable, reanalysis, vapor, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NCEP_RE/NCEP_RE_surface_wv_sample.png",
         "title": "NCEP/NCAR Reanalysis Data, Water Vapor [deprecated]",
         "type": "image_collection"
@@ -9445,7 +9445,7 @@
         "provider": "NOAA",
         "start_date": "1980-01-01",
         "startyear": "1980",
-        "tags": "brightness, cdr, climate, fundamental, geostationary, infrared, isccp, noaa, reflectance, sr",
+        "tags": "brightness, cdr, climate, fundamental, geostationary, infrared, isccp, noaa, reflectance, sr, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CDR_GRIDSAT-B1_V2_sample.png",
         "title": "NOAA CDR GRIDSAT-B1: Geostationary IR Channel Brightness Temperature",
         "type": "image_collection"
@@ -9478,7 +9478,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_OISST_V2_1#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "NOAA/CDR/OISST/V2_1",
         "provider": "NOAA",
@@ -9497,7 +9497,7 @@
         "provider": "NOAA",
         "start_date": "1979-01-01",
         "startyear": "1979",
-        "tags": "atmospheric, avhrr, brightness, cdr, climate, cloud, metop, noaa, optical, poes, reflectance, temperature",
+        "tags": "atmospheric, avhrr, brightness, cdr, climate, cloud, metop, noaa, optical, poes, reflectance, temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CDR_PATMOSX_V53_sample.png",
         "title": "NOAA CDR PATMOSX: Cloud Properties, Reflectance, and Brightness Temperatures, Version 5.3",
         "type": "image_collection"
@@ -9530,7 +9530,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_VIIRS_LAI_FAPAR_V1#terms-of-use",
-        "end_date": "2026-10-09",
+        "end_date": "2026-10-10",
         "endyear": "2026",
         "id": "NOAA/CDR/VIIRS/LAI_FAPAR/V1",
         "provider": "NOAA",
@@ -9543,7 +9543,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CDR_VIIRS_NDVI_V1#terms-of-use",
-        "end_date": "2026-10-09",
+        "end_date": "2026-10-10",
         "endyear": "2026",
         "id": "NOAA/CDR/VIIRS/NDVI/V1",
         "provider": "NOAA",
@@ -9556,13 +9556,13 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSR#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "NOAA/CFSR",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
         "start_date": "2018-12-13",
         "startyear": "2018",
-        "tags": "climate, daylight, flux, forecast, geophysical, ncep, noaa, nws, precipitation, radiation, snow, temperature, vapor, water, weather",
+        "tags": "climate, daylight, flux, forecast, geophysical, ncep, noaa, nws, precipitation, radiation, snow, temperature, vapor, water, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CFSR_sample.png",
         "title": "CFSR: Climate Forecast System Reanalysis [deprecated]",
         "type": "image_collection"
@@ -9575,20 +9575,20 @@
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
         "start_date": "2018-12-13",
         "startyear": "2018",
-        "tags": "climate, daylight, flux, forecast, geophysical, ncep, noaa, nws, precipitation, radiation, snow, temperature, vapor, water, weather",
+        "tags": "climate, daylight, flux, forecast, geophysical, ncep, noaa, nws, precipitation, radiation, snow, temperature, vapor, water, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CFSR_HARMONIZED_sample.png",
         "title": "CFSR: Climate Forecast System Reanalysis Harmonized",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CFSV2_FOR6H#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "NOAA/CFSV2/FOR6H",
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
         "start_date": "1979-01-01",
         "startyear": "1979",
-        "tags": "climate, daylight, flux, forecast, geophysical, ncep, noaa, nws, precipitation, radiation, snow, temperature, vapor, water, weather",
+        "tags": "climate, daylight, flux, forecast, geophysical, ncep, noaa, nws, precipitation, radiation, snow, temperature, vapor, water, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CFSV2_FOR6H_sample.png",
         "title": "CFSV2: NCEP Climate Forecast System Version 2, 6-Hourly Products [deprecated]",
         "type": "image_collection"
@@ -9601,14 +9601,14 @@
         "provider": "NOAA NWS National Centers for Environmental Prediction (NCEP)",
         "start_date": "1979-01-01",
         "startyear": "1979",
-        "tags": "climate, daylight, flux, forecast, geophysical, ncep, noaa, nws, precipitation, radiation, snow, temperature, vapor, water, weather",
+        "tags": "climate, daylight, flux, forecast, geophysical, ncep, noaa, nws, precipitation, radiation, snow, temperature, vapor, water, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CFSV2_FOR6H_HARMONIZED_sample.png",
         "title": "CFSV2: NCEP Climate Forecast System Version 2, 6-Hourly Products Harmonized",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CPC_Precipitation#terms-of-use",
-        "end_date": "2026-10-11",
+        "end_date": "2026-10-12",
         "endyear": "2026",
         "id": "NOAA/CPC/Precipitation",
         "provider": "NOAA Physical Sciences Laboratory",
@@ -9621,13 +9621,13 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_CPC_Temperature#terms-of-use",
-        "end_date": "2026-10-11",
+        "end_date": "2026-10-12",
         "endyear": "2026",
         "id": "NOAA/CPC/Temperature",
         "provider": "NOAA Physical Sciences Laboratory",
         "start_date": "1979-01-01",
         "startyear": "1979",
-        "tags": "climate, daily, noaa, precipitation, weather",
+        "tags": "climate, daily, noaa, precipitation, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_CPC_Temperature_sample.png",
         "title": "CPC Global Unified Temperature",
         "type": "image_collection"
@@ -9660,13 +9660,13 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GFS0P25",
         "provider": "NOAA/NCEP/EMC",
         "start_date": "2015-07-01",
         "startyear": "2015",
-        "tags": "climate, cloud, emc, flux, forecast, geophysical, gfs, humidity, ncep, noaa, precipitation, radiation, temperature, vapor, weather, wind",
+        "tags": "climate, cloud, emc, flux, forecast, geophysical, gfs, humidity, ncep, noaa, precipitation, radiation, temperature, vapor, weather, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_GFS0P25_sample.png",
         "title": "GFS: Global Forecast System 384-Hour Predicted Atmosphere Data",
         "type": "image_collection"
@@ -9803,7 +9803,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCC#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GOES/18/FDCC",
         "provider": "NOAA",
@@ -9816,7 +9816,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_FDCF#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GOES/18/FDCF",
         "provider": "NOAA",
@@ -9829,7 +9829,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPC#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GOES/18/MCMIPC",
         "provider": "NOAA",
@@ -9842,7 +9842,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPF#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GOES/18/MCMIPF",
         "provider": "NOAA",
@@ -9855,7 +9855,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_18_MCMIPM#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GOES/18/MCMIPM",
         "provider": "NOAA",
@@ -9868,7 +9868,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_FDCC#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GOES/19/FDCC",
         "provider": "NOAA",
@@ -9881,7 +9881,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_FDCF#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GOES/19/FDCF",
         "provider": "NOAA",
@@ -9894,7 +9894,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPC#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GOES/19/MCMIPC",
         "provider": "NOAA",
@@ -9907,7 +9907,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPF#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GOES/19/MCMIPF",
         "provider": "NOAA",
@@ -9920,7 +9920,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_GOES_19_MCMIPM#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "NOAA/GOES/19/MCMIPM",
         "provider": "NOAA",
@@ -9939,7 +9939,7 @@
         "provider": "NOAA NCEI",
         "start_date": "1842-10-25",
         "startyear": "1842",
-        "tags": "climate, hurricane, noaa, table, weather",
+        "tags": "climate, hurricane, noaa, table, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_IBTrACS_v4_sample.png",
         "title": "International Best Track Archive for Climate Stewardship Project",
         "type": "table"
@@ -9978,7 +9978,7 @@
         "provider": "NOAA NHC",
         "start_date": "1851-06-25",
         "startyear": "1851",
-        "tags": "climate, hurricane, nhc, noaa, table, weather",
+        "tags": "hurricane, nhc, noaa, table, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_NHC_HURDAT2_atlantic_sample.png",
         "title": "NOAA NHC HURDAT2 Atlantic Hurricane Catalog",
         "type": "table"
@@ -9991,14 +9991,14 @@
         "provider": "NOAA NHC",
         "start_date": "1949-06-11",
         "startyear": "1949",
-        "tags": "climate, hurricane, nhc, noaa, table, weather",
+        "tags": "hurricane, nhc, noaa, table, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_NHC_HURDAT2_pacific_sample.png",
         "title": "NOAA NHC HURDAT2 Pacific Hurricane Catalog",
         "type": "table"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_NWS_RTMA#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "NOAA/NWS/RTMA",
         "provider": "NOAA/NWS",
@@ -10095,7 +10095,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2012-01-19",
         "startyear": "2012",
-        "tags": "climate, daily, day, land, nasa, noaa, surface, temperature, viirs",
+        "tags": "daily, day, land, nasa, noaa, surface, temperature, viirs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_VIIRS_001_VNP21A1D_sample.png",
         "title": "VNP21A1D.001: Day Land Surface Temperature and Emissivity Daily 1km [deprecated]",
         "type": "image_collection"
@@ -10108,7 +10108,7 @@
         "provider": "NASA LP DAAC at the USGS EROS Center",
         "start_date": "2012-01-19",
         "startyear": "2012",
-        "tags": "climate, daily, land, nasa, night, noaa, surface, temperature, viirs",
+        "tags": "daily, land, nasa, night, noaa, surface, temperature, viirs, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/NOAA/NOAA_VIIRS_001_VNP21A1N_sample.png",
         "title": "VNP21A1N.001: Night Land Surface Temperature and Emissivity Daily 1km [deprecated]",
         "type": "image_collection"
@@ -10193,7 +10193,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_AOD_EDR_V3#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "NOAA/VIIRS/AOD_EDR/V3",
         "provider": "NOAA",
@@ -10310,7 +10310,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OPERA_DSWX_L3_V1_S1#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "OPERA/DSWX/L3_V1/S1",
         "provider": "NASA JPL",
@@ -10323,7 +10323,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/OPERA_RTC_L2_V1_S1#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "OPERA/RTC/L2_V1/S1",
         "provider": "NASA JPL",
@@ -10355,7 +10355,7 @@
         "provider": "PRISM / OREGONSTATE",
         "start_date": "1981-01-01",
         "startyear": "1981",
-        "tags": "climate, daily, geophysical, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
+        "tags": "daily, geophysical, oregonstate, precipitation, pressure, prism, temperature, vapor, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OREGONSTATE/OREGONSTATE_PRISM_AN81d_sample.png",
         "title": "PRISM Daily Spatial Dataset AN81d [deprecated]",
         "type": "image_collection"
@@ -10368,7 +10368,7 @@
         "provider": "PRISM / OREGONSTATE",
         "start_date": "1895-01-01",
         "startyear": "1895",
-        "tags": "climate, geophysical, monthly, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
+        "tags": "geophysical, monthly, oregonstate, precipitation, pressure, prism, temperature, vapor, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OREGONSTATE/OREGONSTATE_PRISM_AN81m_sample.png",
         "title": "PRISM Monthly Spatial Dataset AN81m [deprecated]",
         "type": "image_collection"
@@ -10381,7 +10381,7 @@
         "provider": "PRISM / OREGONSTATE",
         "start_date": "1981-01-01",
         "startyear": "1981",
-        "tags": "climate, daily, geophysical, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
+        "tags": "daily, geophysical, oregonstate, precipitation, pressure, prism, temperature, vapor, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OREGONSTATE/OREGONSTATE_PRISM_ANd_sample.png",
         "title": "PRISM Daily Spatial Dataset ANd",
         "type": "image_collection"
@@ -10394,7 +10394,7 @@
         "provider": "PRISM / OREGONSTATE",
         "start_date": "1895-01-01",
         "startyear": "1895",
-        "tags": "climate, geophysical, monthly, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
+        "tags": "geophysical, monthly, oregonstate, precipitation, pressure, prism, temperature, vapor, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OREGONSTATE/OREGONSTATE_PRISM_ANm_sample.png",
         "title": "PRISM Monthly Spatial Dataset ANm",
         "type": "image_collection"
@@ -10407,7 +10407,7 @@
         "provider": "PRISM / OREGONSTATE",
         "start_date": "1981-01-01",
         "startyear": "1981",
-        "tags": "30-year, climate, geophysical, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
+        "tags": "30-year, geophysical, oregonstate, precipitation, pressure, prism, temperature, vapor, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OREGONSTATE/OREGONSTATE_PRISM_Norm81m_sample.png",
         "title": "PRISM Long-Term Normals Dataset Norm81m [deprecated]",
         "type": "image_collection"
@@ -10420,7 +10420,7 @@
         "provider": "PRISM / OREGONSTATE",
         "start_date": "1991-01-01",
         "startyear": "1991",
-        "tags": "30-year, climate, geophysical, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
+        "tags": "30-year, geophysical, oregonstate, precipitation, pressure, prism, temperature, vapor, weather, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OREGONSTATE/OREGONSTATE_PRISM_Norm91m_sample.png",
         "title": "PRISM Long-Term Normals Dataset Norm91m",
         "type": "image_collection"
@@ -10836,7 +10836,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "2000-01-01",
         "startyear": "2000",
-        "tags": "climate, day, envirometrix, lst, mod11a2, modis, monthly, night, opengeohub, openlandmap",
+        "tags": "climate, day, envirometrix, lst, mod11a2, modis, monthly, night, opengeohub, openlandmap, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OpenLandMap/OpenLandMap_CLM_CLM_LST_MOD11A2-DAYNIGHT_M_v01_sample.png",
         "title": "OpenLandMap Long-term Land Surface Temperature Monthly Day-Night Difference",
         "type": "image"
@@ -10849,7 +10849,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "2000-01-01",
         "startyear": "2000",
-        "tags": "climate, envirometrix, lst, mod11a2, modis, monthly, opengeohub, openlandmap",
+        "tags": "climate, envirometrix, lst, mod11a2, modis, monthly, opengeohub, openlandmap, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OpenLandMap/OpenLandMap_CLM_CLM_LST_MOD11A2-DAY_M_v01_sample.png",
         "title": "OpenLandMap Long-term Land Surface Temperature Daytime Monthly Median",
         "type": "image"
@@ -10862,7 +10862,7 @@
         "provider": "EnvirometriX Ltd",
         "start_date": "2000-01-01",
         "startyear": "2000",
-        "tags": "climate, envirometrix, lst, mod11a2, modis, monthly, opengeohub, openlandmap",
+        "tags": "climate, envirometrix, lst, mod11a2, modis, monthly, opengeohub, openlandmap, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/OpenLandMap/OpenLandMap_CLM_CLM_LST_MOD11A2-DAY_SD_v01_sample.png",
         "title": "OpenLandMap Long-term Land Surface Temperature Daytime Monthly Standard Deviation",
         "type": "image"
@@ -11057,7 +11057,7 @@
         "provider": "Oxford Malaria Atlas Project",
         "start_date": "2001-03-01",
         "startyear": "2001",
-        "tags": "climate, lst, map, oxford, surface-temperature",
+        "tags": "lst, map, oxford, surface-temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/Oxford/Oxford_MAP_LST_Day_5km_Monthly_sample.png",
         "title": "Oxford MAP LST: Malaria Atlas Project Gap-Filled Daytime Land Surface Temperature [deprecated]",
         "type": "image_collection"
@@ -11070,7 +11070,7 @@
         "provider": "Oxford Malaria Atlas Project",
         "start_date": "2001-03-01",
         "startyear": "2001",
-        "tags": "climate, lst, map, oxford, surface-temperature",
+        "tags": "lst, map, oxford, surface-temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/Oxford/Oxford_MAP_LST_Night_5km_Monthly_sample.png",
         "title": "Oxford MAP LST: Malaria Atlas Project Gap-Filled Nighttime Land Surface Temperature [deprecated]",
         "type": "image_collection"
@@ -11226,7 +11226,7 @@
         "provider": "Seoul National University (SNU)",
         "start_date": "2001-01-01",
         "startyear": "2001",
-        "tags": "climate, evapotranspiration, gpp, modis-derived, par, radiation, shortwave",
+        "tags": "climate, evapotranspiration, gpp, modis-derived, par, radiation, shortwave, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/SNU/SNU_ESL_BESS_Rad_v1_sample.png",
         "title": "Breathing Earth System Simulator (BESS) Radiation v1",
         "type": "image_collection"
@@ -11512,20 +11512,20 @@
         "provider": "NASA / GES DISC",
         "start_date": "1978-11-01",
         "startyear": "1978",
-        "tags": "atmosphere, aura, climate, geophysical, ges-disc, goddard, nasa, omi, ozone, toms",
+        "tags": "atmosphere, aura, climate, geophysical, ges-disc, goddard, nasa, omi, ozone, toms, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/TOMS/TOMS_MERGED_sample.png",
         "title": "TOMS and OMI Merged Ozone Data v3 [deprecated]",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/TOMS_MERGED_V4#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "TOMS/MERGED_V4",
         "provider": "NASA / GES DISC",
         "start_date": "1978-11-01",
         "startyear": "1978",
-        "tags": "atmosphere, aura, climate, geophysical, ges-disc, goddard, nasa, omi, ozone, toms",
+        "tags": "atmosphere, aura, climate, geophysical, ges-disc, goddard, nasa, omi, ozone, toms, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/TOMS/TOMS_MERGED_V4_sample.png",
         "title": "TOMS and OMI Merged Ozone Data v4",
         "type": "image_collection"
@@ -11668,7 +11668,7 @@
         "provider": "UCSB/CHG",
         "start_date": "1983-01-01",
         "startyear": "1983",
-        "tags": "chg, climate, daily, era5, geophysical, reanalysis, temperature, ucsb, wind",
+        "tags": "chg, climate, daily, era5, geophysical, reanalysis, temperature, ucsb, weather-and-climate, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/UCSB-CHG/UCSB-CHG_CHIRTS_DAILY_sample.png",
         "title": "CHIRTS Temperature Daily: Climate Hazards Center InfraRed Temperature with Stations daily data product",
         "type": "image_collection"
@@ -12858,7 +12858,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/UTOKYO_WTLAB_KBDI_v1#terms-of-use",
-        "end_date": "2026-10-10",
+        "end_date": "2026-10-11",
         "endyear": "2026",
         "id": "UTOKYO/WTLAB/KBDI/v1",
         "provider": "Institute of Industrial Science, The University of Tokyo, Japan",
@@ -13085,7 +13085,7 @@
         "provider": "University of California, Berkeley",
         "start_date": "1960-01-01",
         "startyear": "1960",
-        "tags": "berkeley, bioclim, climate, coldest, diurnal, driest, isothermality, monthly, precipitation, seasonality, temperature, warmest, weather, wettest, worldclim",
+        "tags": "berkeley, bioclim, climate, coldest, diurnal, driest, isothermality, monthly, precipitation, seasonality, temperature, warmest, weather, weather-and-climate, wettest, worldclim",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/WORLDCLIM/WORLDCLIM_V1_BIO_sample.png",
         "title": "WorldClim BIO Variables V1",
         "type": "image"
@@ -13098,7 +13098,7 @@
         "provider": "University of California, Berkeley",
         "start_date": "1960-01-01",
         "startyear": "1960",
-        "tags": "berkeley, climate, monthly, precipitation, temperature, weather, worldclim",
+        "tags": "berkeley, climate, monthly, precipitation, temperature, weather, weather-and-climate, worldclim",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/WORLDCLIM/WORLDCLIM_V1_MONTHLY_sample.png",
         "title": "WorldClim Climatology V1",
         "type": "image_collection"
@@ -13735,7 +13735,7 @@
         "provider": "Yale Center for Earth Observation (YCEO)",
         "start_date": "2003-01-01",
         "startyear": "2003",
-        "tags": "climate, uhi, urban, yale",
+        "tags": "climate, uhi, urban, weather-and-climate, yale",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/YALE/YALE_YCEO_UHI_Summer_UHI_yearly_pixel_v4_sample.png",
         "title": "YCEO Surface Urban Heat Islands: Pixel-Level Composites of Yearly Summertime Daytime and Nighttime Intensity",
         "type": "image_collection"
@@ -13748,7 +13748,7 @@
         "provider": "Yale Center for Earth Observation (YCEO)",
         "start_date": "2003-01-01",
         "startyear": "2003",
-        "tags": "climate, uhi, urban, yale",
+        "tags": "climate, uhi, urban, weather-and-climate, yale",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/YALE/YALE_YCEO_UHI_UHI_all_averaged_v4_sample.png",
         "title": "YCEO Surface Urban Heat Islands: Spatially-Averaged Daytime and Nighttime Intensity for Annual, Summer, and Winter",
         "type": "image"
@@ -13761,7 +13761,7 @@
         "provider": "Yale Center for Earth Observation (YCEO)",
         "start_date": "2003-01-01",
         "startyear": "2003",
-        "tags": "climate, uhi, urban, yale",
+        "tags": "climate, uhi, urban, weather-and-climate, yale",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/YALE/YALE_YCEO_UHI_UHI_monthly_averaged_v4_sample.png",
         "title": "YCEO Surface Urban Heat Islands: Spatially-Averaged Monthly Composites of Daytime and Nighttime Intensity",
         "type": "image"
@@ -13774,7 +13774,7 @@
         "provider": "Yale Center for Earth Observation (YCEO)",
         "start_date": "2003-01-01",
         "startyear": "2003",
-        "tags": "climate, uhi, urban, yale",
+        "tags": "climate, uhi, urban, weather-and-climate, yale",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/YALE/YALE_YCEO_UHI_UHI_yearly_averaged_v4_sample.png",
         "title": "YCEO Surface Urban Heat Islands: Spatially-Averaged Yearly Composites of Annual Daytime and Nighttime Intensity",
         "type": "image_collection"
@@ -13787,7 +13787,7 @@
         "provider": "Yale Center for Earth Observation (YCEO)",
         "start_date": "2003-01-01",
         "startyear": "2003",
-        "tags": "climate, uhi, urban, yale",
+        "tags": "climate, uhi, urban, weather-and-climate, yale",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/YALE/YALE_YCEO_UHI_UHI_yearly_pixel_v4_sample.png",
         "title": "YCEO Surface Urban Heat Islands: Pixel-Level Annual Daytime and Nighttime Intensity",
         "type": "image_collection"
@@ -13800,7 +13800,7 @@
         "provider": "Yale Center for Earth Observation (YCEO)",
         "start_date": "2003-01-01",
         "startyear": "2003",
-        "tags": "climate, uhi, urban, yale",
+        "tags": "climate, uhi, urban, weather-and-climate, yale",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/YALE/YALE_YCEO_UHI_Winter_UHI_yearly_pixel_v4_sample.png",
         "title": "YCEO Surface Urban Heat Islands: Pixel-Level Yearly Composites of Wintertime Daytime and Nighttime Intensity",
         "type": "image_collection"
@@ -14203,7 +14203,7 @@
         "provider": "Google",
         "start_date": "2020-01-01",
         "startyear": "2020",
-        "tags": "climate, forecast, graphcast, precipitation, temperature, weather, weathernext, wind",
+        "tags": "forecast, graphcast, precipitation, temperature, weather, weather-and-climate, weathernext, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/gcp-public-data-weathernext/projects_gcp-public-data-weathernext_assets_59572747_4_0_sample.png",
         "title": "WeatherNext Graph Forecasts [deprecated]",
         "type": "image_collection"
@@ -14216,59 +14216,59 @@
         "provider": "Google",
         "start_date": "2020-01-01",
         "startyear": "2020",
-        "tags": "climate, forecast, precipitation, temperature, weather, weathernext, wind",
+        "tags": "forecast, precipitation, temperature, weather, weather-and-climate, weathernext, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/gcp-public-data-weathernext/projects_gcp-public-data-weathernext_assets_126478713_1_0_sample.png",
         "title": "WeatherNext Gen Forecasts [deprecated]",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_weathernext_2_0_0#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/weathernext_2_0_0",
         "provider": "Google",
         "start_date": "2022-01-01",
         "startyear": "2022",
-        "tags": "climate, cyclones, fgn, forecast, precipitation, temperature, weather, weathernext, wind",
+        "tags": "cyclones, fgn, forecast, precipitation, temperature, weather, weather-and-climate, weathernext, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/gcp-public-data-weathernext/projects_gcp-public-data-weathernext_assets_weathernext_2_0_0_sample.png",
         "title": "WeatherNext 2",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_weathernext_2_0_0_mean#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/weathernext_2_0_0_mean",
         "provider": "Google",
         "start_date": "2022-01-01",
         "startyear": "2022",
-        "tags": "climate, forecast, precipitation, temperature, weather, weathernext, wind",
+        "tags": "forecast, precipitation, temperature, weather, weather-and-climate, weathernext, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/gcp-public-data-weathernext/projects_gcp-public-data-weathernext_assets_weathernext_2_0_0_mean_sample.png",
         "title": "WeatherNext 2 Mean",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_weathernext_3_0_0_0p1deg#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/weathernext_3_0_0_0p1deg",
         "provider": "Google",
         "start_date": "2026-01-01",
         "startyear": "2026",
-        "tags": "climate, flood, forecast, humidity, precipitation, temperature, weather, weathernext, wind",
+        "tags": "flood, forecast, humidity, precipitation, temperature, weather, weather-and-climate, weathernext, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/gcp-public-data-weathernext/projects_gcp-public-data-weathernext_assets_weathernext_3_0_0_0p1deg_sample.png",
         "title": "WeatherNext 3 (0.1&deg;)",
         "type": "image_collection"
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-data-weathernext_assets_weathernext_3_0_0_0p05deg#terms-of-use",
-        "end_date": "2026-10-12",
+        "end_date": "2026-10-13",
         "endyear": "2026",
         "id": "projects/gcp-public-data-weathernext/assets/weathernext_3_0_0_0p05deg",
         "provider": "Google",
         "start_date": "2026-01-01",
         "startyear": "2026",
-        "tags": "climate, flood, forecast, humidity, precipitation, temperature, weather, weathernext, wind",
+        "tags": "flood, forecast, humidity, precipitation, temperature, weather, weather-and-climate, weathernext, wind",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/gcp-public-data-weathernext/projects_gcp-public-data-weathernext_assets_weathernext_3_0_0_0p05deg_sample.png",
         "title": "WeatherNext 3 (0.05&deg;)",
         "type": "image_collection"
@@ -14528,7 +14528,7 @@
         "provider": "The Malaria Atlas Project",
         "start_date": "2001-03-01",
         "startyear": "2001",
-        "tags": "climate, lst, map, surface-temperature",
+        "tags": "lst, map, surface-temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/malariaatlasproject/projects_malariaatlasproject_assets_LST_Day_v061_1km_8-Daily_sample.png",
         "title": "LST Day: Malaria Atlas Project Gap-Filled Daytime Land Surface Temperature (8-Daily 1km)",
         "type": "image_collection"
@@ -14541,7 +14541,7 @@
         "provider": "The Malaria Atlas Project",
         "start_date": "2001-03-01",
         "startyear": "2001",
-        "tags": "climate, lst, map, surface-temperature",
+        "tags": "lst, map, surface-temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/malariaatlasproject/projects_malariaatlasproject_assets_LST_Day_v061_1km_Annual_sample.png",
         "title": "LST Day: Malaria Atlas Project Gap-Filled Daytime Land Surface Temperature (Annual 1km)",
         "type": "image_collection"
@@ -14554,7 +14554,7 @@
         "provider": "The Malaria Atlas Project",
         "start_date": "2001-03-01",
         "startyear": "2001",
-        "tags": "climate, lst, map, surface-temperature",
+        "tags": "lst, map, surface-temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/malariaatlasproject/projects_malariaatlasproject_assets_LST_Day_v061_1km_Monthly_sample.png",
         "title": "LST Day: Malaria Atlas Project Gap-Filled Daytime Land Surface Temperature (Monthly 1km)",
         "type": "image_collection"
@@ -14567,7 +14567,7 @@
         "provider": "The Malaria Atlas Project",
         "start_date": "2001-03-01",
         "startyear": "2001",
-        "tags": "climate, lst, map, surface-temperature",
+        "tags": "lst, map, surface-temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/malariaatlasproject/projects_malariaatlasproject_assets_LST_Night_v061_1km_8-Daily_sample.png",
         "title": "LST Night: Malaria Atlas Project Gap-Filled Nighttime Land Surface Temperature (8-Daily 1km)",
         "type": "image_collection"
@@ -14580,7 +14580,7 @@
         "provider": "The Malaria Atlas Project",
         "start_date": "2001-03-01",
         "startyear": "2001",
-        "tags": "climate, lst, map, surface-temperature",
+        "tags": "lst, map, surface-temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/malariaatlasproject/projects_malariaatlasproject_assets_LST_Night_v061_1km_Annual_sample.png",
         "title": "LST Night: Malaria Atlas Project Gap-Filled Nighttime Land Surface Temperature (Annual 1km)",
         "type": "image_collection"
@@ -14593,7 +14593,7 @@
         "provider": "The Malaria Atlas Project",
         "start_date": "2001-03-01",
         "startyear": "2001",
-        "tags": "climate, lst, map, surface-temperature",
+        "tags": "lst, map, surface-temperature, weather-and-climate",
         "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/malariaatlasproject/projects_malariaatlasproject_assets_LST_Night_v061_1km_Monthly_sample.png",
         "title": "LST Night: Malaria Atlas Project Gap-Filled Nighttime Land Surface Temperature (Monthly 1km)",
         "type": "image_collection"
@@ -15003,7 +15003,7 @@
     },
     {
         "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/overture-maps_places_place#terms-of-use",
-        "end_date": "2026-10-13",
+        "end_date": "2026-10-14",
         "endyear": "2026",
         "id": "overture-maps/places_place",
         "provider": "Overture Maps Foundation",
